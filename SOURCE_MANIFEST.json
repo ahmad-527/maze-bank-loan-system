@@ -1,0 +1,229 @@
+{
+  "scope": "Selected sanitised coursework source; no runnable binary or reports",
+  "files": [
+    {
+      "path": "bank/src/AboutUsFrame.java",
+      "bytes": 4058,
+      "sha256": "a6435defd0bb82cbcf6a18e2ff49c54b4a6cfad2a7c3ed2b010236a7884a9794",
+      "redactions": []
+    },
+    {
+      "path": "bank/src/AdminDashboard.java",
+      "bytes": 5180,
+      "sha256": "0a7ecc1b5f9f61f1af1e0199c83e7e608d4cd37298b4cb03410e1ecb71c5197a",
+      "redactions": []
+    },
+    {
+      "path": "bank/src/AdminLoanReqs.java",
+      "bytes": 5268,
+      "sha256": "dee49fedd463148ac7a5a8511f0d66f30b0a6bb53e2a1a8388a83e28d67f10d8",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "bank/src/AdminLoginFrame.java",
+      "bytes": 8553,
+      "sha256": "f3f8d2645d175d140e13b46cb171a8f0c462e263a595bb437413b71bfeeefd9b",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "bank/src/ContactUsFrame.java",
+      "bytes": 4104,
+      "sha256": "aa5600e34dc337d455e28d5877fd90fcf201ee44f5e41623519472ad0d1ba9c8",
+      "redactions": [
+        "Private contact numbers and student email identifiers"
+      ]
+    },
+    {
+      "path": "bank/src/CustomerQueries.java",
+      "bytes": 5298,
+      "sha256": "faaea1e2007f9d271b40eaca19aec31a0464213f7ff9998c3039b41fd1e517cd",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "bank/src/LoanApplicationFrame.java",
+      "bytes": 8020,
+      "sha256": "40f37e5f42076706c048c167687fe58e6e057600773c088813e9e79f372ba606",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "bank/src/LoginFrame.java",
+      "bytes": 8056,
+      "sha256": "ded252d63e7b91b2de2a6ef265583f576d4a8153917b1a94e4e0080ff45e3159",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "bank/src/RegistrationFrame.java",
+      "bytes": 10871,
+      "sha256": "26aed68771ca48c1c0ec0993c4ce14526ebf03f4ae90d2a83c50388db86b5f1c",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "bank/src/RegistrationFrame2.java",
+      "bytes": 10842,
+      "sha256": "0d9359db88f582ea8c77508a292c3bfe71e605641a0eed171e49f92acd5ae71f",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "bank/src/Start_Page.java",
+      "bytes": 7547,
+      "sha256": "723f3a1a72236ed64600e7935a133bcf54d59b8ae31b41482e7752675b7a0f56",
+      "redactions": []
+    },
+    {
+      "path": "bank/src/Terms_and_Conditions.java",
+      "bytes": 3627,
+      "sha256": "fcffa063c076d5aecbb88bd20f31989d74c90dd261fe2a8de2a48aed301df043",
+      "redactions": []
+    },
+    {
+      "path": "bank/src/UserDashboard.java",
+      "bytes": 4817,
+      "sha256": "15e59f85455e8042f28519b9b7f7c77e952e4c98cc80a4a6831b8dd01024836c",
+      "redactions": []
+    },
+    {
+      "path": "bank/Database/Bank.sql",
+      "bytes": 149,
+      "sha256": "5354c50596b5f8ba7f835fc869774d99e01fb6fc8287db76b2e15345fac7c7e8",
+      "redactions": []
+    },
+    {
+      "path": "bank/src/Images/maze.png",
+      "bytes": 840,
+      "sha256": "94ed0469e74af61770cc6ee1bad4cbb4f78612c2e7af7fa3a74ad9eead1b1362",
+      "redactions": []
+    },
+    {
+      "path": "bank/src/Images/Github-Octicons-X-16.32.png",
+      "bytes": 236,
+      "sha256": "a8c4c8326c8a7de78e210f836007db6f8cf989076df43370433a4583ab8ed9c7",
+      "redactions": []
+    },
+    {
+      "path": "maze-bank-copy/src/AboutUsFrame.java",
+      "bytes": 4058,
+      "sha256": "a6435defd0bb82cbcf6a18e2ff49c54b4a6cfad2a7c3ed2b010236a7884a9794",
+      "redactions": []
+    },
+    {
+      "path": "maze-bank-copy/src/AdminDashboard.java",
+      "bytes": 5180,
+      "sha256": "0a7ecc1b5f9f61f1af1e0199c83e7e608d4cd37298b4cb03410e1ecb71c5197a",
+      "redactions": []
+    },
+    {
+      "path": "maze-bank-copy/src/AdminLoanReqs.java",
+      "bytes": 5267,
+      "sha256": "04cd09d428f42e8bc8325bbbba3351cb258d02429eac116d6b7e5799240d1808",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "maze-bank-copy/src/AdminLoginFrame.java",
+      "bytes": 8679,
+      "sha256": "d373bc55bcbc68cce58d733c3f3866b02e6027d7c04e1173780d9872742a798c",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "maze-bank-copy/src/ContactUsFrame.java",
+      "bytes": 4104,
+      "sha256": "aa5600e34dc337d455e28d5877fd90fcf201ee44f5e41623519472ad0d1ba9c8",
+      "redactions": [
+        "Private contact numbers and student email identifiers"
+      ]
+    },
+    {
+      "path": "maze-bank-copy/src/CustomerQueries.java",
+      "bytes": 5298,
+      "sha256": "faaea1e2007f9d271b40eaca19aec31a0464213f7ff9998c3039b41fd1e517cd",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "maze-bank-copy/src/LoanApplicationFrame.java",
+      "bytes": 8020,
+      "sha256": "40f37e5f42076706c048c167687fe58e6e057600773c088813e9e79f372ba606",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "maze-bank-copy/src/LoginFrame.java",
+      "bytes": 8183,
+      "sha256": "ef4630a9de970fdb3dbfad0c87f6fbe5b0e7d73fe80ff6ab34d5231ecd7fa194",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "maze-bank-copy/src/RegistrationFrame.java",
+      "bytes": 10871,
+      "sha256": "26aed68771ca48c1c0ec0993c4ce14526ebf03f4ae90d2a83c50388db86b5f1c",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "maze-bank-copy/src/RegistrationFrame2.java",
+      "bytes": 10842,
+      "sha256": "0d9359db88f582ea8c77508a292c3bfe71e605641a0eed171e49f92acd5ae71f",
+      "redactions": [
+        "Oracle connection literals"
+      ]
+    },
+    {
+      "path": "maze-bank-copy/src/Start_Page.java",
+      "bytes": 7610,
+      "sha256": "909267034f2c1b049130c2d44294a9b60d79684449418394dcd339e2b4ce0cd7",
+      "redactions": []
+    },
+    {
+      "path": "maze-bank-copy/src/Terms_and_Conditions.java",
+      "bytes": 3627,
+      "sha256": "fcffa063c076d5aecbb88bd20f31989d74c90dd261fe2a8de2a48aed301df043",
+      "redactions": []
+    },
+    {
+      "path": "maze-bank-copy/src/UserDashboard.java",
+      "bytes": 4817,
+      "sha256": "15e59f85455e8042f28519b9b7f7c77e952e4c98cc80a4a6831b8dd01024836c",
+      "redactions": []
+    },
+    {
+      "path": "maze-bank-copy/Database/Bank.sql",
+      "bytes": 149,
+      "sha256": "5354c50596b5f8ba7f835fc869774d99e01fb6fc8287db76b2e15345fac7c7e8",
+      "redactions": []
+    },
+    {
+      "path": "maze-bank-copy/src/Images/maze.png",
+      "bytes": 840,
+      "sha256": "94ed0469e74af61770cc6ee1bad4cbb4f78612c2e7af7fa3a74ad9eead1b1362",
+      "redactions": []
+    },
+    {
+      "path": "maze-bank-copy/src/Images/Github-Octicons-X-16.32.png",
+      "bytes": 236,
+      "sha256": "a8c4c8326c8a7de78e210f836007db6f8cf989076df43370433a4583ab8ed9c7",
+      "redactions": []
+    }
+  ]
+}
