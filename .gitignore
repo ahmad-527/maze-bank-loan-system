@@ -1,0 +1,12 @@
+/target/
+/.idea/
+/.settings/
+*.class
+*.mv.db
+*.trace.db
+*.lock.db
+*.log
+/data/
+*.jar
+/.classpath
+/.project

@@ -1,0 +1,27 @@
+Maze Bank runnable coursework demo - third-party notices
+
+H2 Database Engine 2.5.252
+Copyright 2004-2026 H2 Group. Initial Developer: H2 Group.
+H2 is multi-licensed under the Mozilla Public License 2.0 (MPL 2.0)
+or the Eclipse Public License 1.0 (EPL 1.0).
+This distribution uses the MPL 2.0 option for the unmodified H2 component.
+
+The complete upstream licence page, including the MPL 2.0 and EPL 1.0 texts
+and disclaimers, is retained in licenses/H2-LICENSE.html and inside the
+application JAR at /licenses/H2-LICENSE.html.
+Upstream licence: https://h2database.com/html/license.html
+Exact component source is available at:
+https://repo.maven.apache.org/maven2/com/h2database/h2/2.5.252/h2-2.5.252-sources.jar
+Project: https://h2database.com/
+The H2 Java classes are unmodified. H2 is bundled in the runnable JAR.
+H2 is provided under its own warranty and liability disclaimers in the
+included licence; no H2 endorsement of Maze Bank is implied.
+
+Coursework resources
+The runnable demo retains the two PNG resources referenced by its
+historical Java source: Images/maze.png and Images/Github-Octicons-X-16.32.png.
+Unused photographs and screenshots from the source folders are excluded.
+No separate resource licence grant or blanket repository licence is made.
+
+Build/test dependencies are resolved by Maven under their respective
+upstream terms; JUnit and build tools are not bundled in the application.
