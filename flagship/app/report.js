@@ -51,7 +51,7 @@
     const tr = (cells) =>
       `<tr>${cells.map((x) => `<td>${x}</td>`).join("")}</tr>`;
     return `<article class="report-content"><p class="report-kicker">MAZE BANK / PREPARE · ${t("FORSCHUNGSVORSCHAU · FIKTIVE DATEN", "RESEARCH PREVIEW · FICTIONAL DATA")}</p><h1>${t("Meine Terminvorbereitung", "My appointment preparation")}</h1><p>${esc(s.alias)} · ${t("Erstellt", "Created")} ${esc(new Date().toISOString().slice(0, 10))}</p><p>${t("Termin", "Appointment")}: ${esc(s.appointment || t("Noch offen", "Not set"))}</p><div class="report-note">${t("Persönliche Arbeitsübersicht. Beträge und Zuordnungen sind Angaben der nutzenden Person, keine rechtliche Prüfung oder Zahlungsanweisung. Unbekannte Angaben bleiben offen. Unterlagen und Originalschreiben zum Termin mitbringen.", "Personal working overview. Amounts and relationships are user records, not a legal assessment or payment instruction. Unknown information stays open. Bring supporting documents and original letters to the appointment.")}</div>
-      <h2>1. ${t("Forderungen und Kontakte", "Claims and contacts")}</h2><p><strong>${t("Summe erfasster bekannter Beträge", "Sum of recorded known amounts")}: ${amount(a.claimsTotal)}</strong> · ${a.unknownClaims} ${t(a.unknownClaims === 1 ? "Betrag unbekannt" : "Beträge unbekannt", a.unknownClaims === 1 ? "amount unknown" : "amounts unknown")} · ${a.repeatedClaims} ${t("verknüpfte Wiederholungen nicht erneut eingerechnet", "linked repeated records excluded from double counting")}. ${t("Keine Bestätigung, dass diese Beträge geschuldet sind.", "Does not establish that these amounts are owed.")}</p>
+      <h2>1. ${t("Forderungen und Kontakte", "Claims and contacts")}</h2><p><strong>${t("Summe erfasster bekannter Beträge", "Sum of recorded known amounts")}: ${amount(a.claimsTotal)}</strong> · ${a.unknownClaims} ${t(a.unknownClaims === 1 ? "Betrag unbekannt" : "Beträge unbekannt", a.unknownClaims === 1 ? "amount unknown" : "amounts unknown")} · ${t("Verknüpfte Wiederholungen (nicht erneut eingerechnet)", "Linked repeated records (excluded from double counting)")}: ${a.repeatedClaims}. ${t("Keine Bestätigung, dass diese Beträge geschuldet sind.", "Does not establish that these amounts are owed.")}</p>
       ${table(
         [
           t("Gläubiger / Kontakt", "Creditor / contact"),
@@ -66,7 +66,7 @@
           ]),
         ),
       )}
-      <h2>2. ${t("Haushalt · Monatsdurchschnitt", "Household · monthly average")}</h2><p>${t("Erfasste Einnahmen", "Recorded income")}: ${amount(a.income)} · ${t("Erfasste Ausgaben", "Recorded costs")}: ${amount(a.expenses)} · ${t("Rechnerische Differenz", "Arithmetic difference")}: ${amount(a.difference)}.</p><p>${a.unknownBudget} ${t("unbekannte Posten", "unknown entries")}; ${a.estimatedBudget} ${t("geschätzte Posten", "estimated entries")}; ${t("ausstehende Einnahmen ausgeschlossen", "pending income excluded")}: ${amount(a.pendingIncome)}.</p>
+      <h2>2. ${t("Haushalt · Monatsdurchschnitt", "Household · monthly average")}</h2><p>${t("Erfasste Einnahmen", "Recorded income")}: ${amount(a.income)} · ${t("Erfasste Ausgaben", "Recorded costs")}: ${amount(a.expenses)} · ${t("Rechnerische Differenz", "Arithmetic difference")}: ${amount(a.difference)}.</p><p>${t("Unbekannte Posten", "Unknown entries")}: ${a.unknownBudget}; ${t("Geschätzte Posten", "Estimated entries")}: ${a.estimatedBudget}; ${t("ausstehende Einnahmen ausgeschlossen", "pending income excluded")}: ${amount(a.pendingIncome)}.</p>
       ${table(
         [
           t("Posten", "Entry"),
