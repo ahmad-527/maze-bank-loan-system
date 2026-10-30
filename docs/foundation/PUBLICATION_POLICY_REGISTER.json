@@ -1,0 +1,102 @@
+{
+  "checked_date": "2026-10-30",
+  "basis_limit": "Policy-supported inference, not an audit of every individual review history; current policies do not independently establish historical compliance.",
+  "policies": {
+    "JMIR": [
+      "https://support.jmir.org/hc/en-us/articles/360003192792-What-is-the-peer-review-process-Are-all-papers-in-JMIR-Publications-journals-peer-reviewed",
+      "Regular research, review, tutorial and viewpoint articles supported by publisher policy; non-reviewed exceptional types excluded. Individual reviewer reports not audited."
+    ],
+    "BMC": [
+      "https://gateways.biomedcentral.com/china-en/peer-review-policy/",
+      "Research articles and most other scholarly article types undergo review. Applied to ordinary research/review publications, not letters/editorials."
+    ],
+    "NATURE": [
+      "https://www.nature.com/nmeth/editorial-policies/peer-review",
+      "Nature Portfolio policy explicitly includes Articles, Analysis, Resources, Reviews and Perspectives. Scientific Reports research policy also checked."
+    ],
+    "SDATA": [
+      "https://www.nature.com/sdata/publish/submission-guidelines",
+      "Publisher describes peer-reviewed Article/Data Descriptor formats. Ambiguous brief report excluded."
+    ],
+    "ELSEVIER": [
+      "https://www.elsevier.com/about/policies-and-standards/publishing-ethics",
+      "Publisher policy calls for external independent review of research articles; regular published research/review identity corroborated. Patterns reviews held out."
+    ],
+    "PLOS": [
+      "https://journals.plos.org/plosone/s/editorial-and-peer-review-process",
+      "Regular research publications in PLOS journals; PLOS Biology and Computational Biology editorial/review processes additionally checked. Ambiguous other types held out."
+    ],
+    "PEERJ": [
+      "https://s3.amazonaws.com/static.peerj.com/pressReleases/2016/press-release-PeerJ-Preprints-advisory-group.pdf",
+      "Primary publisher description distinguishes reviewed PeerJ Computer Science from PeerJ Preprints. Included records are published research articles, not preprints."
+    ],
+    "FRONTIERS": [
+      "https://www.frontiersin.org/for-authors/where-to-publish/article-types",
+      "Publisher type table identifies review status of original research, reviews and methods; one included article also names a reviewer."
+    ],
+    "MDPI": [
+      "https://www.mdpi.com/editorial_process",
+      "Publisher process describes external review for research; included records are regular research or reviews, not editorials."
+    ],
+    "GIGA": [
+      "https://academic.oup.com/gigascience/pages/why-publish-with-gigascience",
+      "Journal describes reviewed publications and public review history. Reports not independently audited."
+    ],
+    "BIB": [
+      "https://academic.oup.com/BIB/pages/author-guidelines",
+      "Journal identifies itself as peer reviewed and describes manuscript review."
+    ],
+    "BIOINFO": [
+      "https://academic.oup.com/BIOINFORMATICS/pages/author-guidelines",
+      "Journal peer-review process checked; published regular research record."
+    ],
+    "CKJ": [
+      "https://academic.oup.com/CKJ/pages/author-guidelines",
+      "Journal review process checked; included methodological review is not an editorial."
+    ],
+    "SOC": [
+      "https://journals.sagepub.com/author-instructions/srd",
+      "Journal states all articles are rigorously peer reviewed."
+    ],
+    "DLI": [
+      "https://journals.sagepub.com/author-instructions/dli",
+      "Journal describes independent review of accepted research; editorial/letter exceptions do not apply."
+    ],
+    "ITD": [
+      "https://www.tandfonline.com/journals/titd20",
+      "Journal policy describes independent anonymous expert review. Publisher transfer noted; publication identity comes from DOI/full text."
+    ],
+    "JAMA": [
+      "https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors",
+      "Journal describes reviewed research and JAMA editorial standards."
+    ],
+    "ERAD": [
+      "https://journals.myesr.org/eur-radiol/for-reviewers/",
+      "Owning society describes the journal review process."
+    ],
+    "JEP": [
+      "https://onlinelibrary.wiley.com/page/journal/13652753/homepage/forauthors.html",
+      "Journal states manuscripts ordinarily receive at least two anonymous reviews."
+    ],
+    "SIM": [
+      "https://onlinelibrary.wiley.com/page/journal/10970258/homepage/forauthors.html",
+      "Journal describes single-anonymous review and reviewed primary research."
+    ],
+    "AJAG": [
+      "https://onlinelibrary.wiley.com/page/journal/17416612/homepage/guide.htm",
+      "Journal explicitly marks Research Articles as peer reviewed."
+    ],
+    "SEE": [
+      "https://link.springer.com/journal/11948/submission-guidelines",
+      "Journal submission guidelines describe review and editor/reviewer independence; included original research, not commentary."
+    ],
+    "PPA": [
+      "https://www.dovepress.com/patient-preference-and-adherence-journal",
+      "Publisher identifies the journal as peer reviewed; included paper is original research."
+    ],
+    "JOGH": [
+      "https://jogh.org/editorial-policies/",
+      "External review covers research and reviews; viewpoints receive in-house assessment. Ambiguous contribution held out."
+    ]
+  }
+}

@@ -1,0 +1,1818 @@
+[
+  {
+    "id": "C0526",
+    "sha256": "c5e3b4a1892f0cb97ea0360d5e5b4b51ab4ea8b4e8ddabe7b441b5d464f18758",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 5,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0527",
+    "sha256": "2fc7dd084bd8a6954adc47542a7ce0536efb29ec871c916971379cdf55979a4b",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 9,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0528",
+    "sha256": "a38ebd064d97d1e2253033b264f5b5d90d2bab92efcb9d816e15ea32203272e1",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0530",
+    "sha256": "c056a0fdb0cbb76eead718d7ee16981bc21e1db7e535d5261b83f31e7b66eb37",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 113,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0531",
+    "sha256": "6095b3326a22274ea3ebbfb19e3fa287ddfcf36296f34397bf20ba5c3df85d65",
+    "article_type": "other",
+    "journal": "PLoS Medicine",
+    "sections": 8,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0534",
+    "sha256": "e5c1036e41ce4be10864f830be8d9e38b277ab0b656c623675bedb813432ca8e",
+    "article_type": "research-article",
+    "journal": "Systematic Reviews",
+    "sections": 71,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0535",
+    "sha256": "b4efc03b4b44b7cb64a28d209293b6b0c34c5516410827fc5cbfe0a004203652",
+    "article_type": "review-article",
+    "journal": "Research Integrity and Peer Review",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0536",
+    "sha256": "f9fbfe00268baad460722d487f2871730ec104cceccd7476a30d15fce382b56e",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0540",
+    "sha256": "c39870b4085d6c1829d296114a5d09cccd0294dce8bf6147b815f04fb1efca4b",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 111,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0542",
+    "sha256": "8a68fcceaf3d25bcb678be975eab30f5f4892ec430e536c2f9174f581cfc2f3a",
+    "article_type": "research-article",
+    "journal": "Journal of Clinical Epidemiology",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0548",
+    "sha256": "55b3b52c1cb277a1ea07bfc38d0ba0af191dd53295b87b9a6b1cf90d08622914",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0549",
+    "sha256": "9bf01e81efb3965157670b2f6eb9ed1e6ccd604dcb12489bf3fcaf3fbf12d1da",
+    "article_type": "research-article",
+    "journal": "BMC Medicine",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0550",
+    "sha256": "e9945aee9f4d78d2de5240272e9b494dbd24f36a74eb1af056055e624e799e35",
+    "article_type": "article-commentary",
+    "journal": "Journal of the Medical Library Association : JMLA",
+    "sections": 10,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0551",
+    "sha256": "bc6e1118fa86cc2bafab15dd432fdb132b4df93e0878cab0222309cfed3abf61",
+    "article_type": "research-article",
+    "journal": "Systematic Reviews",
+    "sections": 36,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0556",
+    "sha256": "bfe3b5699fe808706df6781af66fe0fb697012af3040b125977308bc56708949",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 10,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0560",
+    "sha256": "a82d77c1d3237b44568b6b51c93ab01bb4be1f64e4518d6cd6763f75ec9a576a",
+    "article_type": "research-article",
+    "journal": "The BMJ",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0565",
+    "sha256": "7d1aacef429408d50acaaafce86ff4d7d4ba25835ed16dd0849721ddda003469",
+    "article_type": "letter",
+    "journal": "Pilot and Feasibility Studies",
+    "sections": 10,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0570",
+    "sha256": "61301226b4d7bc0f102f598ed06cc7b92fd365e9ef8e9f91edb13791f5d2b368",
+    "article_type": "research-article",
+    "journal": "BMC Medical Research Methodology",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0579",
+    "sha256": "8034e683254a292b32488d4f3c29c8a74e17aedf3f8d6e4896e040b8431cc484",
+    "article_type": "research-article",
+    "journal": "BMC Medical Research Methodology",
+    "sections": 21,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0581",
+    "sha256": "9717a30221eac10a90e81bff6afeb4af67b6d9fbf097522b515212f20afa05c1",
+    "article_type": "research-article",
+    "journal": "Science and Engineering Ethics",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0586",
+    "sha256": "75afe22c0693100f8afdcfa3b6f58710969a05d2f07c351bf0c807b369c78c48",
+    "article_type": "review-article",
+    "journal": "Nature Methods",
+    "sections": 27,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0587",
+    "sha256": "115aad84296a79b847ae3c4e3664f3fc4e90e5589fe10a1fccbb6af767f45ac7",
+    "article_type": "article-commentary",
+    "journal": "Scientific Data",
+    "sections": 7,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0588",
+    "sha256": "6c72197e487de37923690bca0e31fd21cfb0f37d0a5eb313594df9661810fe71",
+    "article_type": "research-article",
+    "journal": "PLoS Computational Biology",
+    "sections": 10,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0590",
+    "sha256": "a8e9400676b94bad7dd70d9329afb1976156ae51713e392a2b2b02fa4520e944",
+    "article_type": "research-article",
+    "journal": "PLoS Biology",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0591",
+    "sha256": "b2bd0dbe38c2f201a458f76cf720357bdb3b413c411473af4a6304845fd0bef3",
+    "article_type": "research-article",
+    "journal": "Scientific Data",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0592",
+    "sha256": "84235a7c4464f16791b3ae26e10490b1bed18ff2af8cf8d3679b2903a7694622",
+    "article_type": "other",
+    "journal": "PLoS Computational Biology",
+    "sections": 28,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0595",
+    "sha256": "42a26d1d7e957b9f09b4211815d04c40469b0533c02eeb030cc6476706ac3e97",
+    "article_type": "research-article",
+    "journal": "GigaScience",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0596",
+    "sha256": "4dabb5f10f081210ec63ba73a56a57fb8ad17ca4dc9b48167b3e1bc890b16a12",
+    "article_type": "research-article",
+    "journal": "Wellcome Open Research",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0597",
+    "sha256": "c62deaf2a75730fae7e40ec693f0f9f8a2ce5a34d6ad7436cb22bb1654efd978",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 5,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0598",
+    "sha256": "cabffab2cb8f01da8516eb855df2f671c58c8dd5acb3867a664eccc226e3312d",
+    "article_type": "discussion",
+    "journal": "F1000Research",
+    "sections": 11,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0601",
+    "sha256": "b2fd8e69373faddede6d4214c583cb4f1f5f4305b87549d190b314d06a3a4402",
+    "article_type": "review-article",
+    "journal": "Briefings in Bioinformatics",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0602",
+    "sha256": "321c6b436da996044953b6fcb1005968269466758c219f616a6476724755f7fb",
+    "article_type": "review-article",
+    "journal": "Patterns",
+    "sections": 34,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0608",
+    "sha256": "bd3dcd9bd884ec9d39a03e4656e48026741bbf274d4cc6c81f81ae9817ebb4cc",
+    "article_type": "news",
+    "journal": "Patterns",
+    "sections": 1,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0609",
+    "sha256": "946c3f41fe4b4fdc16035255c734e287ae11c65ffe63d5be84cbc3c236e4d0b3",
+    "article_type": "methods-article",
+    "journal": "F1000Research",
+    "sections": 8,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0611",
+    "sha256": "903da3bec2d25ed9cf37b72df2d42e34208ac544b3fe74b9223d64a63492b112",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 25,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0612",
+    "sha256": "308c9f77893467f8dedac8a632ec0a52c36bb4562441805a1714270c966c58cd",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 38,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0613",
+    "sha256": "d54858493acd45bfd6777d8f07a391068ba43ed2837e4ff0964eada8cd9de903",
+    "article_type": "brief-report",
+    "journal": "Scientific Data",
+    "sections": 11,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0614",
+    "sha256": "85ee2a9e7cef584605da44777cea79f338ca7fa98da905525f3c5294e99663d0",
+    "article_type": "discussion",
+    "journal": "F1000Research",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0617",
+    "sha256": "9455c1e6165b2341d56063baeda62778b40a836525cb0a91bfc55ca81e8fa0c2",
+    "article_type": "research-article",
+    "journal": "GigaScience",
+    "sections": 42,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0618",
+    "sha256": "ae8c6142f951b36b829a00c41b8d1a1d3a843852847626d973377335c1080b9a",
+    "article_type": "research-article",
+    "journal": "PeerJ Computer Science",
+    "sections": 59,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0620",
+    "sha256": "55a14d07170c91cf48eb108c4553ac0ef390e4cbed66548f332ca88858e811d3",
+    "article_type": "research-article",
+    "journal": "Scientific Data",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0623",
+    "sha256": "1e991f3d0d9f1812d74847b00bb72c409ef910f10f923cdf8217b43c201df742",
+    "article_type": "research-article",
+    "journal": "PeerJ Computer Science",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0628",
+    "sha256": "a28b1a8ee0765cd00f0b2a28bd3ae31a12effb7f5a8771ef34609bd5c7599ab9",
+    "article_type": "research-article",
+    "journal": "Socius : sociological research for a dynamic world",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0629",
+    "sha256": "a73604d79278a9f3a7d1606dd63b6229646682b6e0e28ebf4cc1f96bc7dcbe16",
+    "article_type": "research-article",
+    "journal": "GigaScience",
+    "sections": 23,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0630",
+    "sha256": "e4bb7ef429485fee0aa5a0e321ccf7428ef2ccb27e117fea9b2e113218c31d45",
+    "article_type": "research-article",
+    "journal": "F1000Research",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0633",
+    "sha256": "ceee132e480199928d11f27a4649a7e36f5c77ca8f75f3e8584dfce8ecb4c670",
+    "article_type": "discussion",
+    "journal": "Frontiers in Bioinformatics",
+    "sections": 9,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0634",
+    "sha256": "6d2630784c2ecf6af5b833759a9ef569c18888f5edcdf3691e6a368273f48959",
+    "article_type": "research-article",
+    "journal": "PeerJ Computer Science",
+    "sections": 9,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0638",
+    "sha256": "1765f74fce7ba9e07ec9513dde89b1a251e616359db5452ca2a25b4a19dea656",
+    "article_type": "research-article",
+    "journal": "Bioinformatics",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0639",
+    "sha256": "7563370c117731e4975e72ecf7047470aa71fbc7dbb62a920752be0e1adfb4be",
+    "article_type": "research-article",
+    "journal": "JMIR Nursing",
+    "sections": 6,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0646",
+    "sha256": "cdbcf23f1e35cf2194a58833e56f3f81d990211139de7f8151fc4ee7e772d029",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 15,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0647",
+    "sha256": "582ddb22860e3276468df984a653ef05bd819eaf0402986c3974032a1f56a0d9",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 15,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0648",
+    "sha256": "5433d53ca5acdb97a74ea2129165ef90525a88e1784954ca6faf076fd5359688",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 25,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0649",
+    "sha256": "a2250073bad74bacd82b212699fbb6882776d7f064ecde84f999c0ed7c908cfc",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0650",
+    "sha256": "24708e2e0fdbb14db1bec99294cf4e236434d1f2a1aaf20bbdd4224182422540",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0655",
+    "sha256": "e40df43fecc842f8a1d8c44ca31344098104216f4ed616a258a2f251c272e807",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0658",
+    "sha256": "95a394ae4f9e32197bffb2c14750608ac67abfcc71d837d002b5dc40c30ebd82",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0659",
+    "sha256": "b40724c2243ac7c9cc30b5ea36dd0829579443fc7b664a58b12e3c29fa52b3d1",
+    "article_type": "research-article",
+    "journal": "JMIR Human Factors",
+    "sections": 7,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0660",
+    "sha256": "16cf65a3da674103813372d5c9cc52d7a108bbc9af12df47ae12f2551ee287ec",
+    "article_type": "research-article",
+    "journal": "JMIR Human Factors",
+    "sections": 7,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0665",
+    "sha256": "108e4373c781981af62fcba4c7d5f01073ba10bd91d8ec485263ba9dc88540b0",
+    "article_type": "research-article",
+    "journal": "JMIR Public Health and Surveillance",
+    "sections": 21,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0667",
+    "sha256": "f0cbc6b4e4cfd1b43f1ca8d52971665a983d25344af8656b18ef0a639006ba84",
+    "article_type": "research-article",
+    "journal": "International Journal of Environmental Research and Public Health",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0671",
+    "sha256": "501b81a1f3bb2214c75f8ba756ee063d2583bec3f684bcca382307684e496c80",
+    "article_type": "research-article",
+    "journal": "BMC Psychiatry",
+    "sections": 25,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0677",
+    "sha256": "070ed6f25dcf34041816a0c75a61e57ba82761c51fd2b9533bfda24dccbdbcf9",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 6,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0681",
+    "sha256": "c5f33405335148eed41b04d106c8d0789b6284763b3994ac26dce4dc5a14ffa8",
+    "article_type": "review-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 31,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0688",
+    "sha256": "80eace62efd246d54a493910dbd285b1a949bfa44a52f7be402d3907c13fe85c",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0689",
+    "sha256": "0c51e5abf8ccd89f2259589631178110cfe92c8129e409aaedd2a2d23d851551",
+    "article_type": "research-article",
+    "journal": "International Journal of Environmental Research and Public Health",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0690",
+    "sha256": "33871e457fe2e46388af1edb08fe3ff7ef0734073dde8cc865e0a1dc2854f509",
+    "article_type": "research-article",
+    "journal": "JMIR Human Factors",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0694",
+    "sha256": "48aa63b01138d8e18c84a43385137e9c4593771bca8ed6eefacbfc470a7aeb11",
+    "article_type": "research-article",
+    "journal": "Journal of Evaluation in Clinical Practice",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0696",
+    "sha256": "9cc977da75685b5d29ad596389e1545b082c7e50440433bbac4ffba464ef500d",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 27,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0700",
+    "sha256": "cdf49752a94e5cfab3a55c0adcb7584c41c1f1e9cdf0a44f5bdd6b6dda8cf421",
+    "article_type": "research-article",
+    "journal": "JMIR Formative Research",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0701",
+    "sha256": "9c25bd952f7564caa8c6856f0d01cb3292b8284f5942cf4f35b84e58d186adbc",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0704",
+    "sha256": "ac2bda14f610dead433045d998fbe3ba62f2c4531f19168f0f33e8761abc644a",
+    "article_type": "research-article",
+    "journal": "Frontiers in Nutrition",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0706",
+    "sha256": "7cb0639dbdc7aac707ab94dae41daf287e126b40b5b6f5ff66935a728a8ad387",
+    "article_type": "research-article",
+    "journal": "Information Technology for Development",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0709",
+    "sha256": "8b6e3c755b69f56603f1607911c9dd041da562f1ca95f317d217b7c42ba58e57",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 21,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0712",
+    "sha256": "0d9a59c2d06d5c145546993c4e32467937b45b23f08bdfcf7c1e28beec6662e8",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 15,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0713",
+    "sha256": "4aedeb3b2e1ae323cd6d2c1786275652440423ed0b7dcf45c40820f64b5ab25a",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0714",
+    "sha256": "d6a0471af3dd065824fb012c8fefd6bffbacde34f5edb4f6b8ce65a424ebfd8d",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 21,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0715",
+    "sha256": "4228d98b3bb644be67e55f82fe26c6c38a79f0f5867a8f0d790f5d4552eb6ee4",
+    "article_type": "research-article",
+    "journal": "JMIR Serious Games",
+    "sections": 31,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0716",
+    "sha256": "dab75077ab298ef131fa2d451cacef2b20cc78ed8732f758bb0628a97ebe636e",
+    "article_type": "research-article",
+    "journal": "JMIR Mental Health",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0717",
+    "sha256": "72b4495908fa6a98ae139be7dac589a18c1cd81d31d2a9911d9c78c80ffdec5d",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 34,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0718",
+    "sha256": "9cd68c478b8d2bbcee51a2e4f4b59758d36c9a83b0384263b34d19b9d323cdc8",
+    "article_type": "research-article",
+    "journal": "JMIR Aging",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0719",
+    "sha256": "0251c1b2b9afd9f98d52ea99857be82824e6bb089b34f10c8fef1f7b200dcd22",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 31,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0721",
+    "sha256": "5b5449db5ea1492022ad88cac0d04763cebe7ba7f1cc94f507d8a0bf34f30b01",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0723",
+    "sha256": "b8348f3c4e6493843e063c731fbaa7da23afa4f2335a5875055b540f2275bbc2",
+    "article_type": "research-article",
+    "journal": "JMIR Mental Health",
+    "sections": 33,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0724",
+    "sha256": "bd9caa504dcb80303385dc98b2b5bec2c87d3c33ee992c1e02a6ae2c3fd99a73",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 23,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0726",
+    "sha256": "e15d4a7f74c41063325eb4703e36c7c8d0818103066a9025084b185e4d613960",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 39,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0727",
+    "sha256": "9017200a6d9a7126ec9ba5cd681bc1f3bd15b2deefafc0a0488cc8be212c4e83",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 27,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0729",
+    "sha256": "ebdd845409fea3c6631591bcd5424f1cc3c1a3ba8117f78b33883b1fb9177f2b",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 7,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0731",
+    "sha256": "09396603b4ebdd431f2ce8295fa206011277db6532ff5e2c0f14328b95bbda09",
+    "article_type": "research-article",
+    "journal": "JMIR Research Protocols",
+    "sections": 25,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0735",
+    "sha256": "61657b4fdc06376518db0dc4abbd41bf022edc10a19f795dd6cd3c18d7073793",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 33,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0741",
+    "sha256": "519169acac8cd74f4a29e3b172a655526523ec55d842c343e79a3dd7fa7b65b1",
+    "article_type": "research-article",
+    "journal": "eGEMs",
+    "sections": 25,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0742",
+    "sha256": "4781ed4b7c397b05b110de01a3606be8aa4fb3937f88db82676f41691c55be7f",
+    "article_type": "research-article",
+    "journal": "JMIR Mental Health",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0745",
+    "sha256": "cb9ad2d079f10851341fbcff0764c59713d937abd0db68bd40e6a6c0de0f3233",
+    "article_type": "research-article",
+    "journal": "Internet Interventions",
+    "sections": 36,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0747",
+    "sha256": "86835291d59cc85aa7e3b7b6656350410f7a3f0070fa0b29d71fab7a0da2698b",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0751",
+    "sha256": "8105a4ef14ebc55463f6aeefdac30cdea3989ff7482865853b76aabd55dfd436",
+    "article_type": "research-article",
+    "journal": "Research Involvement and Engagement",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0752",
+    "sha256": "4e79164e544386a8c01a32a8fa59358a9741ed335fcfbf38153c76b1270008fc",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 29,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0754",
+    "sha256": "a2a9cf5beaa9bc08d8d0a6ecd5f2bc513898520701f03d5439a3c911d7ea29b1",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0757",
+    "sha256": "8f641f56b10361897c27de356e8c2e396aaa8a341b51d3531d0fea5e2b69b6d0",
+    "article_type": "research-article",
+    "journal": "JMIR Formative Research",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0760",
+    "sha256": "db6e53d015aedc0bfd02a3ee6a42a91fd783e264592fbcf5eac5ea24c326296d",
+    "article_type": "research-article",
+    "journal": "JMIR Human Factors",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0761",
+    "sha256": "28538a38eaf03ddf2477082824dc6af2694fd684b95729ec164c98658506ecd5",
+    "article_type": "research-article",
+    "journal": "JMIR Formative Research",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0824",
+    "sha256": "ad69aed07b0a618c31c5c7ee96e74b68c19c14997cab051eef5d22cde9c44d0d",
+    "article_type": "other",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 7,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0825",
+    "sha256": "621ef8d3259ab4f1ed41e9b4cb74e12b8c545242d5a8b2f9d0e395e5d28f8c9c",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0826",
+    "sha256": "f75eb3b9102df879f6b94df07faf735d4c125e772501a4147139547d072245f2",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 55,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0827",
+    "sha256": "451c9c359f63e96754f958581dbc65ff57d5bbef515856111f84dcf63bfa0c60",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0828",
+    "sha256": "338f2003356fcd9e75e3543188afee146ecfc6b27ca7106a41319ba3a1606ae8",
+    "article_type": "review-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0829",
+    "sha256": "bcea37f8abecbb7cb8e7d72a075375a63ab69903354263a286cecf269a3ac7c5",
+    "article_type": "review-article",
+    "journal": "Frontiers in Psychology",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0830",
+    "sha256": "8747c22e1c32c437cff4e09f6a817e7c5d925e277ad6558ff8ca6d142151b2b8",
+    "article_type": "review-article",
+    "journal": "The International Journal of Behavioral Nutrition and Physical Activity",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0831",
+    "sha256": "679c8ac0c27033565d258189bf870d9b3b7da1a67f9b54c3f416a5ab00cd8bdf",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 36,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0832",
+    "sha256": "2847487e27b471a45f15361b4a9ae383a8d0ec4fe8c4725aa8f93f0a46b6a970",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0833",
+    "sha256": "817ea2e842a01ea554cc8a0ea58c2657a037fc3571375a97c246e29c8b9d5b6e",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0835",
+    "sha256": "305689a08aa39c683dd788e093faeacbe2528f91dd6c0d60fb7b2bf28ff5f932",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0837",
+    "sha256": "7a874e78aedb38b0d498bb95462c7047471cee120058e839e51d2bae57de80ee",
+    "article_type": "research-article",
+    "journal": "JMIR Mental Health",
+    "sections": 36,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0838",
+    "sha256": "b94c618166e9f57ef1038bb1d6e5698c29597918a594db7176f5ce7fd03d13eb",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0840",
+    "sha256": "41826aa5e48826e1975940ca946faf65c9078b70570a66f4ccb8168810f327f4",
+    "article_type": "research-article",
+    "journal": "JMIR Mental Health",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0841",
+    "sha256": "5777daf8d44bca55b69a84487f70708e265bb1fa7b7f67205956cde2d922eb0b",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 34,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0842",
+    "sha256": "04331dcc6b0f9d29ae78cb618d2683e18abfe005bae44df34e64a13359af44a9",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0843",
+    "sha256": "b842111c92ced10c6de0e14e72065d0166c59a5c16abf3fccf68737dc6f1d746",
+    "article_type": "systematic-review",
+    "journal": "Frontiers in Psychology",
+    "sections": 23,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0844",
+    "sha256": "74c337a3a2027983ebab15993569dfd8eaca4830d432a3bbf1b6e4c1cd5b59c7",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0847",
+    "sha256": "d5a296abde776ad3dc5f79672c97c487e1fbbec13ba33c75ebb4b11244e7e4cb",
+    "article_type": "review-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 33,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0851",
+    "sha256": "dad278972124c64703617e48d180a1a9cf6d2fa942174a55e245051095bafd02",
+    "article_type": "review-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0852",
+    "sha256": "a9703ae6ba2b2eab53f2a603813aeee12f355fcbd0300d9b45aba737ce8dfcad",
+    "article_type": "review-article",
+    "journal": "Heliyon",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0855",
+    "sha256": "f13486f05631d14f2218393b326bda000960e965f5433a903f2c75377eebf0aa",
+    "article_type": "review-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 32,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0857",
+    "sha256": "200576043e9a4e62ef01dd5517090c64641f9cdf2c9a5798b980c8eb29203c2d",
+    "article_type": "review-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 31,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0860",
+    "sha256": "28c2e562e8156fe7cf0905f9f1176bff1c1629340c9223b9f5792b9f1fed27b1",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0862",
+    "sha256": "233dc8fef652c31fc7971a095ae42119c03c910d697f543f63a196c7fc7b7e06",
+    "article_type": "review-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0863",
+    "sha256": "4f95e59fc5ba9cc0a22bbcccb21d2b155b257e5ef6c5f23aaed912fa8750d8c2",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0864",
+    "sha256": "d5110927cb097f00adbc1981f53e769a17262932924bc3219ae34640d9d9ecef",
+    "article_type": "research-article",
+    "journal": "JMIR Human Factors",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0870",
+    "sha256": "b48bf75a202e04d36eb425229e53a01dd69e67fabebc3f1c6c968dc933afc783",
+    "article_type": "review-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 30,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0872",
+    "sha256": "ae48fbc912d2254c920d8f24739aa290438341baae872a8bba1ca50415cdfb88",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 34,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0882",
+    "sha256": "0e1ff5d6ec24b52e24bf74461f03e7a3d04f1881c059e4adec24019256b93261",
+    "article_type": "review-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0884",
+    "sha256": "a7aafe163b41510464f8c66d06a7d5cceb9ee954aa6daeda1deb5dcd89779f49",
+    "article_type": "research-article",
+    "journal": "BMC Medicine",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0885",
+    "sha256": "3ac895aab0097bda5d978a02a2916e0fa5a7e80fb700898d7b5d06925d72f6f5",
+    "article_type": "research-article",
+    "journal": "JAMA Network Open",
+    "sections": 6,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0886",
+    "sha256": "76b3dcf3b016bd61ccbf54c3109611a89cf08a05108f1484eec656755bd56a5a",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0887",
+    "sha256": "3e034b75772f91920724760365ebce6d715bb1615553a8a39538c5e30dc37bea",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0894",
+    "sha256": "d43feb90fba8282de3409b2499bbb55ebc38e3f737d23cc83fb0096db4f14724",
+    "article_type": "research-article",
+    "journal": "Internet Interventions",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0895",
+    "sha256": "8d7161f4afe9cb237830f05670b41788093eeb4f13eb2afd667e1f05ef795044",
+    "article_type": "review-article",
+    "journal": "JCO Clinical Cancer Informatics",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0896",
+    "sha256": "fc37033eb7f3519dac74008bb52846e0a2fd061abb853d11ce7ca138c1e49342",
+    "article_type": "letter",
+    "journal": "BMC Medical Research Methodology",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0897",
+    "sha256": "3b2bd75d9b53c072799244009a9e24ae4b28e568d2a263d7df0da6f0c28cc532",
+    "article_type": "research-article",
+    "journal": "European Radiology",
+    "sections": 5,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0901",
+    "sha256": "dda59ebfb3d7b6148141d127a51e42938a25f80ea6085550eb752590f9f852b0",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0906",
+    "sha256": "dd26ec3069a95df411e2d87b590b313be0a370e9c99cf27e54e26ff40414edfd",
+    "article_type": "research-article",
+    "journal": "International Journal of Information Management",
+    "sections": 9,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0909",
+    "sha256": "22511aedf9bbe3c87e67408b845e39e6475219a089f64e29edda545503eba090",
+    "article_type": "research-article",
+    "journal": "Internet Interventions",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0914",
+    "sha256": "39be16e3ad43b4b670f89e6b73f85bb42598501efa5cf5086b6dcf16ab441456",
+    "article_type": "review-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0916",
+    "sha256": "00de892549ece27815e8f07057533fd0c6438e6dacc25000a7ba6e4c6899f1a1",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0927",
+    "sha256": "e6d8d6c32261a98fe9e866fd8471b4a38ea60de8bf36ff894dde01fe283c00f6",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 9,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0933",
+    "sha256": "47391d59afbc7b8a582b9e15230df4ef8da9a09823305a227c384e6cedcd98ca",
+    "article_type": "research-article",
+    "journal": "Empirical Software Engineering",
+    "sections": 35,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0934",
+    "sha256": "1533d0f08c463b8cb477e57c92e55d5bb35e02f756fcc429f44da2e6ae00e478",
+    "article_type": "research-article",
+    "journal": "JMIR Formative Research",
+    "sections": 23,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0937",
+    "sha256": "436b1cc896359da31734b7148e69ae9fa91115ab24f4f092db96a65df0479d7c",
+    "article_type": "review-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 38,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0938",
+    "sha256": "197dc942edef111dea79362716dfc6c85ef55f26cf73be6300aea349f6dc49e1",
+    "article_type": "research-article",
+    "journal": "Methods of Information in Medicine",
+    "sections": 38,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0940",
+    "sha256": "6fca2499f94214932b68e9a4df698af998d65141bd1f66251b04b046d5dd9c54",
+    "article_type": "review-article",
+    "journal": "Journal of Medicine and Life",
+    "sections": 10,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0943",
+    "sha256": "48f1f82c4f9f74d9a72a580690634651e095161c9bf8a0a1078afc691d54705a",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 33,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0944",
+    "sha256": "b1c8fb50202ccc20caeab4230c4eb36fb065129a657c3db59d3c9fecb2945c64",
+    "article_type": "research-article",
+    "journal": "BMC Medical Research Methodology",
+    "sections": 50,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0945",
+    "sha256": "9d5d68b2b3da97ab54f24517777f5614085fab461a70e81adf33e852cf7880e6",
+    "article_type": "review-article",
+    "journal": "Nature Medicine",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0946",
+    "sha256": "759b79a6320d1aa5599893282022dad96b8e8cd519a69eba5406f8bc0b336460",
+    "article_type": "review-article",
+    "journal": "Clinical Kidney Journal",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0947",
+    "sha256": "69f1f7f327b46ee945d7ba08b70326199153a48ea6a0823298aa7baa8638715d",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 47,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0948",
+    "sha256": "7c54c7887cbf02500bfb4d52ee49c45b89b13f861049f2c4c747d97744aabb97",
+    "article_type": "research-article",
+    "journal": "BMC Medical Research Methodology",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0949",
+    "sha256": "aa0a9e293bd3471ab1186ebf704d41a11c2f7ac7229190ed9e87b345e758a858",
+    "article_type": "research-article",
+    "journal": "Statistics in Medicine",
+    "sections": 9,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0950",
+    "sha256": "8bf0b96fa9f91f29049d2f9fc14a56f5ecbcc3fcbf2be6da4543201c0a650204",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 53,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0951",
+    "sha256": "420a93fe12e94acca62eac8fb7904eddbbdca6d0620c051eba2b5fac5310f6af",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0952",
+    "sha256": "73658181ff9a96401818c66a04a89ca856d82f29c8212a40dce1f72984c91397",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0953",
+    "sha256": "24b3796f42a2d26348c57599c4e33e6851ffd243ae7ac0529c5cc17f619404cf",
+    "article_type": "review-article",
+    "journal": "Nature Medicine",
+    "sections": 23,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0955",
+    "sha256": "45f772c1bd82e6cb8b231805a6bd5bd93fb2c11e9cba81a80007006682cde08c",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 39,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0958",
+    "sha256": "951ba2a0e5eec0de77d63428df793df3fbcd07671487db1dbab97bef8e035853",
+    "article_type": "review-article",
+    "journal": "Journal of Global Health",
+    "sections": 11,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0963",
+    "sha256": "8cffd29cd68f851a8caf9896c13857c2666408fe779f01cacba9559c554ee861",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 21,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0969",
+    "sha256": "33fdcd046c9cb2380f46cce8dff663a6ddd12f835ffd6392ab9ee6c95a15d39c",
+    "article_type": "review-article",
+    "journal": "Patterns",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0971",
+    "sha256": "9e128f498ce1bf01160fbc5fe47f5fb0aca5e75557b030c937114caee9480c5a",
+    "article_type": "other",
+    "journal": "The BMJ",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0972",
+    "sha256": "e335b50b22a25585dfa405757a3b49b6bb9c55a68ff3c4efc75954347cbaeb81",
+    "article_type": "review-article",
+    "journal": "JMIR AI",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0977",
+    "sha256": "f780a1a4344519a686a2ae932a2168faf260ca553a36306f99d9438313c90c33",
+    "article_type": "review-article",
+    "journal": "The Lancet. Digital Health",
+    "sections": 75,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0991",
+    "sha256": "1dcf6831ea710c00c9703e88c320b2d07bf11be728e157546d96a8a9daff84a2",
+    "article_type": "research-article",
+    "journal": "Scientific Reports",
+    "sections": 11,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0993",
+    "sha256": "1ab8daf92402e820e6ed80fafaa3f6bb0b47f53c4f8bb2523e2dec585b23ba3e",
+    "article_type": "research-article",
+    "journal": "Journal of Clinical Epidemiology",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0999",
+    "sha256": "c1c3af36228705aa68e8bb05747b019a4a6d2a39d83c2a8da0b6754a6fd863da",
+    "article_type": "research-article",
+    "journal": "BMC Medical Research Methodology",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0144",
+    "sha256": "bff4ba8aad5d25e810acdc553d3d2900d1633ad1d33d05d0b8682c19a9f34604",
+    "article_type": "research-article",
+    "journal": "PeerJ Computer Science",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0146",
+    "sha256": "8ecb5b5543f2a3581b42e4da577543747780e9040b4715c7b496114af98bcd70",
+    "article_type": "research-article",
+    "journal": "PLOS One",
+    "sections": 29,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0148",
+    "sha256": "7fc61671602fa308904f5a8055b4da285c423180f376d6546aa7ed468dee8ff4",
+    "article_type": "research-article",
+    "journal": "Journal of Education and Health Promotion",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0150",
+    "sha256": "a89a1d4397e57b536759acb4a85d5589d161ca6d2a4716b8e7ccc894ecff32ea",
+    "article_type": "research-article",
+    "journal": "Scientific Reports",
+    "sections": 42,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0152",
+    "sha256": "dd7bdf1936332e8f9f7884cf9487378b972c736f8f9b943d0f4b535384eaab9e",
+    "article_type": "research-article",
+    "journal": "BMC Geriatrics",
+    "sections": 40,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0156",
+    "sha256": "2e2ca89807508bb3b7ae18e5f7fb4079fe64f66d69f62a3fe01aa1efda6f4694",
+    "article_type": "research-article",
+    "journal": "Journal of Patient-Reported Outcomes",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0160",
+    "sha256": "ae0f6d579a3a4b2890a5edd45c38ee8f0b01e0a21478bb5983f99cac578697c5",
+    "article_type": "research-article",
+    "journal": "International Journal for Equity in Health",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0164",
+    "sha256": "1adc5550e9c076d32cefba8452b627137974e1d3b76f3187ae86e95cb29af377",
+    "article_type": "research-article",
+    "journal": "Australasian Journal on Ageing",
+    "sections": 27,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0187",
+    "sha256": "a5e2be9af2f1c854f381ccedb8df41edbc283be1a2e6c625540799b75b9495e2",
+    "article_type": "research-article",
+    "journal": "Scientific Reports",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0770",
+    "sha256": "c24efaa7e5d5867175340bd4cb902013d669ed8d7b2edd20e9083236388567a4",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0779",
+    "sha256": "c9f30fefc415a310778b30f740fd549d583a434144f84aa823daeb49a1fd6deb",
+    "article_type": "review-article",
+    "journal": "JMIR Medical Informatics",
+    "sections": 29,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0783",
+    "sha256": "7763cec3014a87796fc19d4aac4dc140811ba1880f6724fd62b7f292c901e5ca",
+    "article_type": "research-article",
+    "journal": "BMC Public Health",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0787",
+    "sha256": "bcd517f2c4453cdb8f1443d4f41de735c717dfef41872dc9261c75fd30fcdfbc",
+    "article_type": "review-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0802",
+    "sha256": "305af8b89012090e618e58a6c10a2771da4db907ac24b2d307ecf922c63cd2ec",
+    "article_type": "research-article",
+    "journal": "BMC Health Services Research",
+    "sections": 35,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0804",
+    "sha256": "78d741f390bc4996a027c96a7cc4256139bb36b4f7bda7687125544441fbe2d2",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 36,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0806",
+    "sha256": "3f54502a7bd6c849daeb5fc51be3be7892f657b4484b4d219bc5be92da750f6b",
+    "article_type": "review-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0807",
+    "sha256": "c9098f1ea6e716177b35fb400f2cc16244c9e710e9d83ecf7774d255be71699d",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 31,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0813",
+    "sha256": "56db14818bbff9b01dba12c6785df67f33ddec2225cbca99e915a792bbec626c",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0823",
+    "sha256": "51cb3c92671569387718be04b90790fe869865924a0c4eeb619c38e747550aa1",
+    "article_type": "research-article",
+    "journal": "Interactive Journal of Medical Research",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0050",
+    "sha256": "01f30086084a81d5269e9a3d6bb45b241804881e7bc4d2323a622257fbe2da9c",
+    "article_type": "research-article",
+    "journal": "JMIR Aging",
+    "sections": 34,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0059",
+    "sha256": "655a067359b53e022fb4eeae7655876a86b07c8f1fbf8b6e82a08d32a7cfd30e",
+    "article_type": "research-article",
+    "journal": "Sensors (Basel, Switzerland)",
+    "sections": 29,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0063",
+    "sha256": "400437b47f9cabb5d748da6f43b72c7b54551305ca59d51e3a1211f001102527",
+    "article_type": "research-article",
+    "journal": "JMIR Medical Education",
+    "sections": 44,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0067",
+    "sha256": "0f1f8db33bc558c6f10d6051e0837fbeb9e49ee29cc10e7c4b37e16e385cbb77",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0070",
+    "sha256": "108908d9b82533ce7698ba5ae290e13b9291b3132bf4001d393ba3212653a477",
+    "article_type": "research-article",
+    "journal": "BMC Medical Informatics and Decision Making",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0073",
+    "sha256": "2d798263dd1954da5c365c913446dc59afe78629e2456060b80ac5a1b4a8d856",
+    "article_type": "research-article",
+    "journal": "Health Promotion Perspectives",
+    "sections": 27,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0077",
+    "sha256": "25b7d6a4e001718377122399fe611ec3aed29d1585d2fecd268bd7339786ee73",
+    "article_type": "research-article",
+    "journal": "Preventive Medicine Reports",
+    "sections": 21,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0080",
+    "sha256": "ee2aebfbb6d046939d780b488c6b6b8bc312b456e48b08f394fe9ef73591e85a",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 23,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0090",
+    "sha256": "4dec91eda1420252cfcc7d910865b8201789094449fb0adea89721831bd9cf28",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0100",
+    "sha256": "2bcef18809c22ce1fe42e59b570a49f8bdd70c420b901ed6afd3da47ea1bf395",
+    "article_type": "research-article",
+    "journal": "Frontiers in Global Women's Health",
+    "sections": 35,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0103",
+    "sha256": "bd30febe759c6ede67c648c292157b1f96101ed0a8addc38e467e65fdbabfb29",
+    "article_type": "research-article",
+    "journal": "Internet Interventions",
+    "sections": 23,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0105",
+    "sha256": "9db84ae4a7ee7a3df0f70a9b3cbb78bef602eb22bfad079fe168e5cb9dd9f99b",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychiatry",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0116",
+    "sha256": "2fbf8fb7f3628da9756e19ae140dddbf6a74d22f2c56ffdb85b512bc5edd3681",
+    "article_type": "research-article",
+    "journal": "Journal of Clinical and Translational Science",
+    "sections": 27,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0136",
+    "sha256": "87a5f675b1691b542f2557972da5dc8730c1025eefb5c638a907a7e7de3e8fc1",
+    "article_type": "review-article",
+    "journal": "Healthcare",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0140",
+    "sha256": "437e379378a0dc8582c1e09fa6d933e06107a68b63b6b530d78e4d82830ceea7",
+    "article_type": "research-article",
+    "journal": "JMIR Formative Research",
+    "sections": 9,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0191",
+    "sha256": "21ec6393c6a14c6f122aa4374dc4fa195f3e789ac13d84690ad8be7eee98051d",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychology",
+    "sections": 25,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0192",
+    "sha256": "80d4b4d52a8045eae478df33fb3246b737bb977ff33cdea5758bb663943eb54a",
+    "article_type": "research-article",
+    "journal": "Heliyon",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0195",
+    "sha256": "0c5b6c55adb14c1261daa87705a805157b0e5e0c381d0dea0557fdc83adb9e7c",
+    "article_type": "research-article",
+    "journal": "Behavioral Sciences",
+    "sections": 34,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0199",
+    "sha256": "5f9c532354a95b1fd8321ba7e88db72717ddcb4f99ff4d04f1279220a0b35449",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 41,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0203",
+    "sha256": "08217e0ba2f64453b238e931d2ce22a75eab423b8c79522cbd5bcaeca07a5744",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychiatry",
+    "sections": 15,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0207",
+    "sha256": "aa6e9243d8b68dffde148e1a325576ae7d053664b6f9d3fb36f4b5773b1d9a4e",
+    "article_type": "research-article",
+    "journal": "Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies",
+    "sections": 48,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0211",
+    "sha256": "fb1c7f4ca2db1590333677906478211e5d6461350182b03f31f405bf171565cd",
+    "article_type": "research-article",
+    "journal": "Biomimetics",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0219",
+    "sha256": "31f2b2ac6cae71bcb1563f0c6f6b739d3afd73af74945c025db91b7488482712",
+    "article_type": "research-article",
+    "journal": "JMIR Human Factors",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0223",
+    "sha256": "5b868b16975f80d7594619d07a957dd718641a60bd0912fafb5b33a35ceae39b",
+    "article_type": "research-article",
+    "journal": "JMIR Human Factors",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0224",
+    "sha256": "f47372f2f8c59820e9ebb1de6b683d608be74ef9a98a4491832e8668d412daa0",
+    "article_type": "research-article",
+    "journal": "Internet Interventions",
+    "sections": 11,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0228",
+    "sha256": "7fb7d6733f9ce52dd178575ab4aec984041f9c36fd8b961bfc8f7e43ad28552c",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 28,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0231",
+    "sha256": "e7207b4015e6f9a7ad385b92af0fb850783f06fe862afe2527dfeb9c4a5e848e",
+    "article_type": "research-article",
+    "journal": "JMIR Human Factors",
+    "sections": 15,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0262",
+    "sha256": "0657e27793e357495c093e48c1c7e05088d53ed6f56f7817e7862e95906b664b",
+    "article_type": "research-article",
+    "journal": "Patient preference and adherence",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0275",
+    "sha256": "c598d6de2f688d235c903e92cd3f7c0d06e48eff862382d6792f3e3f9e648233",
+    "article_type": "research-article",
+    "journal": "NPJ Digital Medicine",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0278",
+    "sha256": "11166b6fe19ad33b46cd21521a50e25c374c3b6d58167a3789590cf0c9901670",
+    "article_type": "research-article",
+    "journal": "JMIR Human Factors",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0279",
+    "sha256": "a0771f5d93ec34cfc59935624cd729f31454af9e7480cae5fa7d7e5157c66577",
+    "article_type": "research-article",
+    "journal": "JMIR mHealth and uHealth",
+    "sections": 11,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0283",
+    "sha256": "6ac409d89252362dedde35649cd2c3127a5bfa99de3b6ef7d7b5aa87767d0586",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 21,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0284",
+    "sha256": "dcb1f53d12769eb26cee15295ee4158dc76cf64327dec8b3a4d00a43cd4b250b",
+    "article_type": "research-article",
+    "journal": "The European Journal of Public Health",
+    "sections": 21,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0288",
+    "sha256": "f83eb848cf0bbcb177615d17720ed000babdff8ba68989be648c6c9e9a25ada2",
+    "article_type": "research-article",
+    "journal": "Frontiers in Public Health",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C0290",
+    "sha256": "3e933cead41f0613e104e53caec0fcf05cad7bcd1a8060ac4cc0c8f8a7884e4d",
+    "article_type": "research-article",
+    "journal": "PLOS ONE",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C1030",
+    "sha256": "868aedf546ddad847d850dc8663e62830c3cb9ca148ed400ff1617939af4c79e",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C1033",
+    "sha256": "8e7577d8949b8ca7348762e998c88b3c285afa136392e2b7f9c00f9e61a8b839",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychology",
+    "sections": 29,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C1046",
+    "sha256": "f97af645bc8d5162ab518cb98ec3af42a2d86088eb2d69adf5fa1da63809cf78",
+    "article_type": "research-article",
+    "journal": "Journal of Consumer Policy",
+    "sections": 34,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "C1055",
+    "sha256": "f5e545dc41011b6626eee6683f8084da806df43878e4f2b278d8e1276c0690fd",
+    "article_type": "research-article",
+    "journal": "Autism & Developmental Language Impairments",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  }
+]

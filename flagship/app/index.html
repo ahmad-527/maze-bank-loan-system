@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#5145cd" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'"
+    />
+    <meta name="referrer" content="no-referrer" />
+    <title>Maze Bank Prepare — Terminvorbereitung</title>
+    <link rel="icon" href="mark.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="domain.js" defer></script>
+    <script src="vault.js" defer></script>
+    <script src="report.js" defer></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <a href="#main" class="skip-link">Zum Inhalt / Skip to content</a>
+    <div id="app">
+      <main class="boot">
+        <h1>Maze Bank Prepare</h1>
+        <p>Vorbereitung wird geöffnet … / Opening workspace …</p>
+        <noscript
+          >JavaScript ist für diese lokale Vorschau erforderlich. / This local
+          preview requires JavaScript.</noscript
+        >
+      </main>
+    </div>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <dialog id="dialog" aria-labelledby="dialog-title"></dialog>
+  </body>
+</html>

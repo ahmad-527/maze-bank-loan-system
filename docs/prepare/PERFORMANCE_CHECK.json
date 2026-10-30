@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-30T09:21:05.992Z",
+  "node": "v24.22.1",
+  "platform": "win32",
+  "scope": "Node domain/report microbenchmark; not browser latency, first-usable time or field Web Vitals",
+  "stats": {
+    "summarize": {
+      "records": 400,
+      "iterations": 20,
+      "p95ms": 66.84460000000001
+    },
+    "report": {
+      "records": 400,
+      "iterations": 20,
+      "p95ms": 75.30270000000019
+    }
+  }
+}

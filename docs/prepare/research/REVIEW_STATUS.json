@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-30",
+  "candidate_records": 510,
+  "fulltexts_retrieved": 118,
+  "focused_fulltext_appraisals": 118,
+  "retained_product_papers_with_corroborated_publication_identity": 100,
+  "additional_context_appraisals": 18,
+  "individual_review_statement_count": 14,
+  "venue_policy_verification_complete": true,
+  "peer_review_basis_limit": "Policy-supported inference plus article statements where present; not an audit of confidential reviewer reports or a guarantee of historical compliance. Publisher policy does not establish scientific quality or product effectiveness.",
+  "critical_review_reading_depth": "Focused full-text methods, results and limitations/discussion; no exhaustive supplement audit or replication.",
+  "qualified_app_benchmarks_completed": 0,
+  "partial_public_web_workflows_tested": 2,
+  "human_or_practitioner_validation_completed": 0,
+  "research_gate_passed": false,
+  "independent_review_completed": false,
+  "limitations": [
+    "Single AI-assisted reviewer; no independent duplicate extraction",
+    "Purposive OA/EuropePMC search with health and socioeconomic-context bias",
+    "Many studies observational or non-German; related datasets/reviews are not independent confirmations",
+    "No demand, counselling-pack acceptance or improved preparation performance established",
+    "20-app qualification/workflow benchmarks incomplete"
+  ]
+}

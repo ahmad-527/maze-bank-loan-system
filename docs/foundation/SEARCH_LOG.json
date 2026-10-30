@@ -1,0 +1,74 @@
+[
+  {
+    "topic": "research_methods",
+    "query": "(TITLE_ABS:(\"PRISMA\" OR \"AMSTAR 2\" OR \"risk of bias tool\" OR \"GRADE guidelines\" OR \"sample size justification\" OR \"reporting guidelines\" OR \"multiple testing\" OR \"publication bias\" OR \"reproducibility crisis\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 69260,
+    "retrieved": 50
+  },
+  {
+    "topic": "usability_measurement",
+    "query": "(TITLE_ABS:(\"system usability scale\" OR \"mobile health app usability questionnaire\" OR \"mobile app rating scale\" OR \"usability testing\" OR \"user experience questionnaire\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 2996,
+    "retrieved": 50
+  },
+  {
+    "topic": "user_centred_design",
+    "query": "(TITLE_ABS:(\"user centered design\" OR \"user-centred design\" OR \"human centered design\" OR \"co-design\") AND TITLE_ABS:(\"app\" OR \"digital\" OR \"software\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 1824,
+    "retrieved": 50
+  },
+  {
+    "topic": "accessibility_inclusion",
+    "query": "(TITLE_ABS:(\"accessibility\" OR \"digital divide\" OR \"low literacy\") AND TITLE_ABS:(\"mobile apps\" OR \"websites\" OR \"digital services\" OR \"web accessibility\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 698,
+    "retrieved": 50
+  },
+  {
+    "topic": "interaction_visual",
+    "query": "(TITLE_ABS:(\"interface design\" OR \"visual design\" OR \"navigation\" OR \"cognitive load\") AND TITLE_ABS:(\"app\" OR \"user interface\" OR \"website\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 835,
+    "retrieved": 50
+  },
+  {
+    "topic": "engagement_behavior",
+    "query": "(TITLE_ABS:(\"engagement\" OR \"attrition\" OR \"adherence\" OR \"persuasive design\") AND TITLE_ABS:(\"mobile app\" OR \"digital intervention\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 1540,
+    "retrieved": 50
+  },
+  {
+    "topic": "privacy_security",
+    "query": "(TITLE_ABS:(\"privacy\" OR \"security\") AND TITLE_ABS:(\"mobile apps\" OR \"health apps\" OR \"usable security\" OR \"software\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 2490,
+    "retrieved": 50
+  },
+  {
+    "topic": "trust_informed_choice",
+    "query": "(TITLE_ABS:(\"trust\" OR \"dark patterns\" OR \"informed consent\") AND TITLE_ABS:(\"app\" OR \"digital\" OR \"interface\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 3627,
+    "retrieved": 50
+  },
+  {
+    "topic": "software_verification",
+    "query": "(TITLE_ABS:(\"software testing\" OR \"software reliability\" OR \"software quality\" OR \"reproducible software\" OR \"data integrity\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 1116,
+    "retrieved": 50
+  },
+  {
+    "topic": "ai_oversight",
+    "query": "(TITLE_ABS:(\"automation bias\" OR \"human AI\" OR \"human-AI\" OR \"explainable artificial intelligence\" OR \"AI reporting guidelines\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 2382,
+    "retrieved": 50
+  },
+  {
+    "topic": "ai_validation",
+    "query": "(TITLE_ABS:(\"external validation\" OR \"dataset shift\" OR \"algorithmic bias\" OR \"model calibration\") AND TITLE_ABS:(\"machine learning\" OR \"artificial intelligence\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 6725,
+    "retrieved": 50
+  },
+  {
+    "topic": "consumer_finance",
+    "query": "(TITLE_ABS:(\"financial literacy\" OR \"debt repayment\" OR \"digital financial\" OR \"financial well-being\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2010-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\"",
+    "total_hits": 786,
+    "retrieved": 50
+  }
+]

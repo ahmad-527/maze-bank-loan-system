@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-30",
+  "surface": "Windows Codex in-app browser, loopback HTTP",
+  "real_mobile_device": false,
+  "responsive_checks": [
+    {
+      "requested_viewport_width": 360,
+      "view": "overview",
+      "measured_css_client_width": 345,
+      "measured_document_scroll_width": 345,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 360,
+      "view": "claims",
+      "measured_css_client_width": 345,
+      "measured_document_scroll_width": 345,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 360,
+      "view": "budget",
+      "measured_css_client_width": 345,
+      "measured_document_scroll_width": 345,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 360,
+      "view": "documents",
+      "measured_css_client_width": 345,
+      "measured_document_scroll_width": 345,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 360,
+      "view": "tasks",
+      "measured_css_client_width": 345,
+      "measured_document_scroll_width": 345,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 360,
+      "view": "export",
+      "measured_css_client_width": 345,
+      "measured_document_scroll_width": 345,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 768,
+      "view": "overview",
+      "measured_css_client_width": 753,
+      "measured_document_scroll_width": 753,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 768,
+      "view": "claims",
+      "measured_css_client_width": 753,
+      "measured_document_scroll_width": 753,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 768,
+      "view": "budget",
+      "measured_css_client_width": 753,
+      "measured_document_scroll_width": 753,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 768,
+      "view": "documents",
+      "measured_css_client_width": 753,
+      "measured_document_scroll_width": 753,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 768,
+      "view": "tasks",
+      "measured_css_client_width": 768,
+      "measured_document_scroll_width": 768,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 768,
+      "view": "export",
+      "measured_css_client_width": 753,
+      "measured_document_scroll_width": 753,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 1440,
+      "view": "overview",
+      "measured_css_client_width": 1425,
+      "measured_document_scroll_width": 1425,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 1440,
+      "view": "claims",
+      "measured_css_client_width": 1425,
+      "measured_document_scroll_width": 1425,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 1440,
+      "view": "budget",
+      "measured_css_client_width": 1425,
+      "measured_document_scroll_width": 1425,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 1440,
+      "view": "documents",
+      "measured_css_client_width": 1440,
+      "measured_document_scroll_width": 1440,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 1440,
+      "view": "tasks",
+      "measured_css_client_width": 1440,
+      "measured_document_scroll_width": 1440,
+      "page_horizontal_overflow": false
+    },
+    {
+      "requested_viewport_width": 1440,
+      "view": "export",
+      "measured_css_client_width": 1425,
+      "measured_document_scroll_width": 1425,
+      "page_horizontal_overflow": false
+    }
+  ],
+  "unnamed_visible_buttons_at_360": 0,
+  "console_errors_or_warnings_final_check": []
+}

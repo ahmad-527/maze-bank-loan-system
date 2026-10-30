@@ -1,0 +1,12 @@
+{
+  "checkedAt": "2026-10-30T09:04:58.712Z",
+  "backupBytes": 5119,
+  "backupSha256": "5ef1f79ee9694c6ace81ad6f7adc7443d0b7487457a3c27a0080c09391868c19",
+  "claims": 5,
+  "budget": 8,
+  "documents": 6,
+  "tasks": 3,
+  "reportBytes": 6645,
+  "reportSha256": "6f3ac13074eb5c83880ad7946eeef7c5113002b113e5b330dc69e6b35baa79d8",
+  "actualDownloadedBytesChecked": true
+}

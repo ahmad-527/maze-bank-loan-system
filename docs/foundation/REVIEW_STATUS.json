@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-30",
+  "candidate_records": 1061,
+  "retrieved_fulltexts": 227,
+  "focused_fulltext_appraisals": 218,
+  "counted_eligible_foundation_papers": 200,
+  "additional_context_appraisals": 18,
+  "counted_with_explicit_article_review_statement": 28,
+  "counted_with_policy_supported_review_inference": 172,
+  "unique_doi_check": true,
+  "source_hash_check": true,
+  "future_publication_check": true,
+  "review_depth": "Focused full-text methods/development, results and limitations/discussion appraisal; no exhaustive supplement audit or replication.",
+  "limitations": [
+    "Purposive open-access/Europe-PMC-heavy search; health-app dominance",
+    "Single AI-assisted reviewer; no independent duplicate screening/extraction",
+    "No formal universal risk-of-bias score; design-specific qualitative judgments",
+    "No quantitative pooled effects or claim of exhaustive systematic review",
+    "Venue policies support review inference; individual reports not all inspected"
+  ],
+  "per_product_100_papers_20_apps_requirement": "Unchanged and independently required; no automatic credit for this foundation review",
+  "implementation_ready_by_this_review_alone": false
+}

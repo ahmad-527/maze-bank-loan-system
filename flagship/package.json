@@ -1,0 +1,13 @@
+{
+  "name": "mazebank-prepare",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Synthetic research preview for German debt-counselling preparation",
+  "scripts": {
+    "test": "node --test test/*.test.cjs",
+    "start": "node server.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

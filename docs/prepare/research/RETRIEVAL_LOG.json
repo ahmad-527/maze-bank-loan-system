@@ -1,0 +1,946 @@
+[
+  {
+    "id": "M0004",
+    "sha256": "84ed68b4d94d1b2ba45e892a130e171cf46476f6fb924b127a57533bbc956bae",
+    "article_type": "research-article",
+    "journal": "SSM - Population Health",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0005",
+    "sha256": "7a6077d12f8e88b9ae2f39864e488dd65e253db86430a475c086cc761a401b9b",
+    "article_type": "research-article",
+    "journal": "BMC Public Health",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0006",
+    "sha256": "69d378ae7d945f36fc3238327c72032d9e4417b2112cf66b452085f1281f103f",
+    "article_type": "research-article",
+    "journal": "BMC Public Health",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0012",
+    "sha256": "7517ecd5e4fea44590398b5feb6a859aa64173c66be5db189b9b4926caf3f80a",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychology",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0013",
+    "sha256": "765a55d24a51335104fade6addfc8b1401f57412ddb198465347afdeaac5af74",
+    "article_type": "research-article",
+    "journal": "SSM - Population Health",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0015",
+    "sha256": "c92738079d46ed603114eb58a418520244175645be8f49563c9db4c3c9358b3f",
+    "article_type": "research-article",
+    "journal": "BMC Health Services Research",
+    "sections": 15,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0016",
+    "sha256": "7aa2cf706525ac65da432f7603cbb72828d89d5488c0a1da698e821d8a5eadbe",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 11,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0017",
+    "sha256": "fd1c7dc8949254fa7cb808215c5193a3379e30cb8598c46069c2fc99ea245054",
+    "article_type": "research-article",
+    "journal": "Preventive Medicine Reports",
+    "sections": 7,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0018",
+    "sha256": "eee382091ab59399ff955a32d21e68df18fc5675722e6f77f21d68c429c9adb4",
+    "article_type": "research-article",
+    "journal": "BMJ Open",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0020",
+    "sha256": "255cad40a6f35b2c031b2e6d13c99ed23074d51dd95cf8b8195ff8303f19d751",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 8,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0021",
+    "sha256": "a7180b96224db941834ea6a238dc2670d4b94f7ec300965726cb3f57095d3e15",
+    "article_type": "research-article",
+    "journal": "The European Journal of Public Health",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0022",
+    "sha256": "2fa0e00c91a29b6719182e0800024d760fcee60710dd3ec43e8396482ea51df4",
+    "article_type": "research-article",
+    "journal": "The International Journal of Social Psychiatry",
+    "sections": 10,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0024",
+    "sha256": "49c8d34ebd26ba2f1eeb3d5df7c947a040b5c0e77a099f6822be821eb465eed6",
+    "article_type": "research-article",
+    "journal": "Frontiers in Public Health",
+    "sections": 21,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0025",
+    "sha256": "3ea5d1d404fd1e7947f68c50cb2add2c3849e6a2750a07d75e931e2cc213fb89",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0028",
+    "sha256": "b055c1be8018099a1648e7f88ab90bb74ebe9db58c85199ca6109e49570c25ae",
+    "article_type": "research-article",
+    "journal": "Behavioral Sciences",
+    "sections": 39,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0031",
+    "sha256": "48cffbe8a933666e14f3edabbc5efe5ae71a1892658327acf9eb858317c5d193",
+    "article_type": "research-article",
+    "journal": "Journal of Consumer Policy",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0032",
+    "sha256": "bea991027d48c6ac087b63b8a95218c9033953c04df2eb71a0304b73d96f2589",
+    "article_type": "research-article",
+    "journal": "Social Indicators Research",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0033",
+    "sha256": "62bc44a0d3290f8bf293f341715e672fe6e5e4de4423c7f33ff11dc8da047807",
+    "article_type": "research-article",
+    "journal": "The Lancet. Public health",
+    "sections": 15,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0034",
+    "sha256": "2576c7d109b380ed563dc88bbae1efa3249999ada85a1cad460cca40f8133f7c",
+    "article_type": "research-article",
+    "journal": "BJPsych Open",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0037",
+    "sha256": "14bf057142139b65b5a50ce9ceae6b0067652b88153344878449311e88c50789",
+    "article_type": "review-article",
+    "journal": "SSM - Population Health",
+    "sections": 32,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0039",
+    "sha256": "c005fe7a2348ad37465611f0f98816c45ca74c1bde8c3db3dc1b33edaf852028",
+    "article_type": "research-article",
+    "journal": "BMC Public Health",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0041",
+    "sha256": "e9ecea91f0d859b3cb170590ada93b010a8664649e93e394820f0be7d4b40b55",
+    "article_type": "research-article",
+    "journal": "Journal of Family and Economic Issues",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0042",
+    "sha256": "147d0ad48ef976171d4219f29ce47b90f3843cfc44d6f8c458d7d85892b86109",
+    "article_type": "research-article",
+    "journal": "BMC Public Health",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0048",
+    "sha256": "408154f9b7e974058290a6649502b8fac69ae5500d25fb3d88218382af75513c",
+    "article_type": "research-article",
+    "journal": "Journal of Population Economics",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0059",
+    "sha256": "47802d0914293d36a91b1fced6c23ce596ff18a5ff415fe61d09644628db1609",
+    "article_type": "research-article",
+    "journal": "Addictive Behaviors Reports",
+    "sections": 4,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0060",
+    "sha256": "864dd8372b697c542c7e8ab571a807401483fb603fdee4770de8e336f04825c1",
+    "article_type": "review-article",
+    "journal": "Campbell Systematic Reviews",
+    "sections": 74,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0062",
+    "sha256": "d4efa149c5f7316c67d5fc33efb6b98f8826e70fea690f0c52e8347df9a8946a",
+    "article_type": "review-article",
+    "journal": "International Journal of Environmental Research and Public Health",
+    "sections": 23,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0063",
+    "sha256": "d314507803700a78d29033dfd1105b5253e6774ec15fa498c1a41770b6ab5e01",
+    "article_type": "research-article",
+    "journal": "BMJ Open",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0067",
+    "sha256": "e7dfcb613b199ba78aa0fb343e52d0d65d1be625b48f8e5e53461f86cb841189",
+    "article_type": "review-article",
+    "journal": "Campbell Systematic Reviews",
+    "sections": 68,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0068",
+    "sha256": "ff7d6ec6aa48d82d3f5ddbb586a315eafa73afb34956faaf1cadbd5e9c494c08",
+    "article_type": "research-article",
+    "journal": "Scandinavian Journal of Public Health",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0069",
+    "sha256": "599193bf281b54b09b78650212da8d8e1508115459479fd14c914a67d4c76dd5",
+    "article_type": "research-article",
+    "journal": "SSM - Population Health",
+    "sections": 15,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0075",
+    "sha256": "fd47af4ab2f780861ed24f770a6108fb987ef387444b0cec4473ab70d0301873",
+    "article_type": "research-article",
+    "journal": "BJPsych Open",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0084",
+    "sha256": "2baeaa19d6c5ea95d78d6796278b79919049d7ee6b0c4e4dc980caf960bc305b",
+    "article_type": "research-article",
+    "journal": "Research in Social Stratification and Mobility",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0097",
+    "sha256": "8362d29f27ea792474361d4dd3047ceb9ddd4e3b4fd91988a865f9a5ec6d606b",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychiatry",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0099",
+    "sha256": "8df0bd48866eb3bfd21234c3631e8fbd8abcef0509444c05c6524e0600ad3cb0",
+    "article_type": "research-article",
+    "journal": "International Journal for Equity in Health",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0111",
+    "sha256": "26a39ce8ba6cb221775f05c15682c600f96d6f12940d974a38b61841a7b2cebc",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0117",
+    "sha256": "5d1fbabb8616be3434ed6b932cb3f3bd8604f33e2c553c817c6fb9cbf3e0afaa",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 29,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0123",
+    "sha256": "ca42c316ec3ed1f5350fe040211e850756913b5ab82d243861955063cc5fbd5f",
+    "article_type": "research-article",
+    "journal": "JAMA Psychiatry",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0124",
+    "sha256": "848cb15854f1e5b29d5c9a730682389ecff7e0ba1ffaf9f31a626c84fd4f45d9",
+    "article_type": "research-article",
+    "journal": "Psychological Medicine",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0129",
+    "sha256": "7ef8213d3b942050282d0b1d42f223143524a8a36fa9a20920a33b8c02595ba2",
+    "article_type": "systematic-review",
+    "journal": "Journal of Epidemiology and Community Health",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0133",
+    "sha256": "19589c4d54d2ab7f3a208ffe4757994daef0af2b2bcc4aa253e5d4bb83c3ce8d",
+    "article_type": "systematic-review",
+    "journal": "Frontiers in Psychology",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0135",
+    "sha256": "93ceadc3426ee63d4c2127338f36d3846228825385e6149b16e7df89f93d1a64",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0139",
+    "sha256": "30a0e4f87b2a126cfdcccd2da95cab39d6cca7b89d1399dfde87eae847bea8d7",
+    "article_type": "research-article",
+    "journal": "BMC Psychology",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0172",
+    "sha256": "932b929a7609de954202446e8c3cc837645872aabb5e4208516a67c03418349f",
+    "article_type": "review-article",
+    "journal": "The International Journal of Behavioral Nutrition and Physical Activity",
+    "sections": 25,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0188",
+    "sha256": "259561418ba2d439fa27077289fc2b7ea40b6e9adc2ea03b500fca49617d2700",
+    "article_type": "research-article",
+    "journal": "Supportive Care in Cancer",
+    "sections": 30,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0189",
+    "sha256": "1a689dca9511397d3447ef7f127a93264d52f532ae079ecba5991fac51ef23a7",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 45,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0191",
+    "sha256": "51c532ce908be3a69ade3673366f014a3cb7f42d3c2de4cc011b58b089c3a3be",
+    "article_type": "research-article",
+    "journal": "Frontiers in Neuroscience",
+    "sections": 42,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0200",
+    "sha256": "940d3b70bff3c5222f86854ce3fc412abe80c3482b43195cdc1cd863ce95551b",
+    "article_type": "research-article",
+    "journal": "BMC Public Health",
+    "sections": 8,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0204",
+    "sha256": "3b3dd259d1b441c9313fca3a610ae6fb8e432dc727000bf3b9862e165f27f8bf",
+    "article_type": "research-article",
+    "journal": "Journal of Family and Economic Issues",
+    "sections": 25,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0205",
+    "sha256": "7b980a36107d4f9db02903445be4b432d8b66dc48d99217e6a4592987390d738",
+    "article_type": "research-article",
+    "journal": "Journal of Family and Economic Issues",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0217",
+    "sha256": "de8fa6a70815f4df7c631a611954cd023b0023e54e1149055e3e8a69eff41aef",
+    "article_type": "research-article",
+    "journal": "Journal of Family and Economic Issues",
+    "sections": 33,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0218",
+    "sha256": "d39a5b640166afc3869dfeed6b410f08527c56b77ae852553ccdc36e9fed45cf",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 33,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0219",
+    "sha256": "cecc237a3d9cbfa1365fec66a9b1efcb28d012e2d2543457e8dc5087e2539c33",
+    "article_type": "research-article",
+    "journal": "Journal of Neural Transmission",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0221",
+    "sha256": "d4fd419db34ce59d379227ea7be666173d6dd4b814a7636e60321a6133698f59",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychology",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0222",
+    "sha256": "f5e545dc41011b6626eee6683f8084da806df43878e4f2b278d8e1276c0690fd",
+    "article_type": "research-article",
+    "journal": "Autism & Developmental Language Impairments",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0224",
+    "sha256": "b9acc5ed47e2e153261c050bcfabe04ee67139cccfbee6b525b55e68e8efb7c7",
+    "article_type": "research-article",
+    "journal": "International Journal of Environmental Research and Public Health",
+    "sections": 7,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0227",
+    "sha256": "59c03182d710267266ede51ef63e3acad2b91e329213637742bc9e4a02b484b8",
+    "article_type": "research-article",
+    "journal": "Heliyon",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0228",
+    "sha256": "f2bbfa707456d809519519426b132c6c17fdf7fcf5f5d4a1946abcf3653de831",
+    "article_type": "research-article",
+    "journal": "Journal of Family and Economic Issues",
+    "sections": 31,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0229",
+    "sha256": "70497137ab86c2f1e3bfc005058759531b970073b5aa91aff4f44a3f41375828",
+    "article_type": "research-article",
+    "journal": "Journal of Family and Economic Issues",
+    "sections": 29,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0236",
+    "sha256": "53765546c7a2e253afbd8936153c46002ffe7d0d0b737ec66fa1b726b07aa1d9",
+    "article_type": "research-article",
+    "journal": "Preventing Chronic Disease",
+    "sections": 5,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0241",
+    "sha256": "0385e2e552bac28469070be90aec4788b10e5c7a18a64105334a7b9615e68be8",
+    "article_type": "research-article",
+    "journal": "BMJ Open",
+    "sections": 7,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0242",
+    "sha256": "4c43742d46ed01258f23e22e512194851496dff6972ba4abe53c052d82c25a17",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 29,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0251",
+    "sha256": "8bda8cf5bdfcb054a8527463ee82ea212e1f0f53ec66825d5b44266cd6c01df9",
+    "article_type": "research-article",
+    "journal": "Global Health Promotion",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0255",
+    "sha256": "5d94ee58fc18d9a1ae03d04acada04a9cdfd50879cd4ee75fd6bb7760a68b079",
+    "article_type": "research-article",
+    "journal": "JAMA Network Open",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0267",
+    "sha256": "40fcd1bb1480e6e98571206e78653e46412d241acc22b716af1e184aa1cc0ae0",
+    "article_type": "brief-report",
+    "journal": "Healthcare",
+    "sections": 20,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0288",
+    "sha256": "2539ae242d209e81584480457c8046d3ce309e0d912cf38e48730297aa1b0ffc",
+    "article_type": "research-article",
+    "journal": "Journal of Economics, Race, and Policy",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0292",
+    "sha256": "eb4481479a6763a2fc770ff2f3681a8e228441f36c8e2a2998f3478d5c71542c",
+    "article_type": "research-article",
+    "journal": "BMC Public Health",
+    "sections": 32,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0293",
+    "sha256": "4e5a16b05d317856f4b75c81800231618d08f0dfaf0721814edf10e18e9ea4b4",
+    "article_type": "review-article",
+    "journal": "Campbell Systematic Reviews",
+    "sections": 132,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0298",
+    "sha256": "518b4e79c205b9e98de244e4994001e5ed88f782062eeb4e2dfacb15c68aa720",
+    "article_type": "research-article",
+    "journal": "Frontiers in Public Health",
+    "sections": 21,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0300",
+    "sha256": "8e7577d8949b8ca7348762e998c88b3c285afa136392e2b7f9c00f9e61a8b839",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychology",
+    "sections": 29,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0304",
+    "sha256": "bd87eb69fc7111891e61f9b04e55347ef8b2a12e4e5bc3dfd3ad8bfeb4cfa32c",
+    "article_type": "research-article",
+    "journal": "International Journal for Equity in Health",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0317",
+    "sha256": "27ef286b4d08c922d09b9eb0578f00ce8a53f64a084209fb4da19d08b736bfb9",
+    "article_type": "research-article",
+    "journal": "AIMS public health",
+    "sections": 23,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0319",
+    "sha256": "d6f074e24e56c2d60ddf75cc556e3e06d9cb7a6f3a3813a976d3deffec94db53",
+    "article_type": "research-article",
+    "journal": "Community Mental Health Journal",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0323",
+    "sha256": "d4110d170fdb8b98f71ba2c713e8861faededa668f2e068f65257df9bce88313",
+    "article_type": "research-article",
+    "journal": "Psychiatry Research",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0326",
+    "sha256": "fe6b72e64fa5b285b462bfbabf9e84630545957bbac06efe6358318da7b6d705",
+    "article_type": "research-article",
+    "journal": "International Journal for Equity in Health",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0333",
+    "sha256": "d7b5eb5b810b832198a08a156ad661604b0adce33afcb41dba68fe1075b6b50b",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0334",
+    "sha256": "e74f16bd6650b72accecfd733101d14e55ce19a9ece0d6603a4f9a2605bc7bf5",
+    "article_type": "research-article",
+    "journal": "The International Journal of Social Psychiatry",
+    "sections": 9,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0336",
+    "sha256": "0ca5fdd8e5050e0ed0c9c653af2c9c58332b5e194f519f7ee080e23253fb9956",
+    "article_type": "research-article",
+    "journal": "The British Journal of Social Psychology",
+    "sections": 15,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0340",
+    "sha256": "294d9a7d89cf74ffc2ca7c8f9feb8ca7ee79969b4e4c3beec9977926801912b3",
+    "article_type": "review-article",
+    "journal": "International Journal of Environmental Research and Public Health",
+    "sections": 17,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0346",
+    "sha256": "6ba187bf4f84f36e9868e17a3b470bb2f1c5ef64e2b793bf948dbb582fae1f68",
+    "article_type": "research-article",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0349",
+    "sha256": "c8c78a4193490d4f06b4ca59b7add766384701c2c6fc33ebe1ebbbb056086563",
+    "article_type": "research-article",
+    "journal": "The International Journal of Social Psychiatry",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0351",
+    "sha256": "e978babfec813b937db85a9f520a473c3481c5f43b106952c055d929aadf6567",
+    "article_type": "research-article",
+    "journal": "SSM - Population Health",
+    "sections": 11,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0356",
+    "sha256": "b8af7daddfad437fee509f36e72c24ecdbe7de6872f634ddc14a0e94e4deb3c7",
+    "article_type": "research-article",
+    "journal": "Journal of Banking & Finance",
+    "sections": 21,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0359",
+    "sha256": "8615be1172ef03b23909c47f51aedeaaad6d3c62d0c9e8612d91ecedc3841124",
+    "article_type": "research-article",
+    "journal": "Journal of Family and Economic Issues",
+    "sections": 74,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0370",
+    "sha256": "daa88170f504df643a3cdec7b0360f5daa8776bc1c16e31f24f152bcc3153df6",
+    "article_type": "research-article",
+    "journal": "Jmr, Journal of Marketing Research",
+    "sections": 31,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0383",
+    "sha256": "a59ef1f2ff964027517e6e725b5189b92d8fbca277fd1bfface6f3a4d967241a",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 15,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0385",
+    "sha256": "69387b8eaaf6ac9ab3ed994c663b72996642c4ae999dd6e0782ef0cb5044ffbd",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychology",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0386",
+    "sha256": "25d6d3b7c3a924349214a4ba9a5a9b7a2b518fb95fc593adeb08b944450b5280",
+    "article_type": "research-article",
+    "journal": "Journal of Gambling Studies",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0387",
+    "sha256": "d20a35a71936570a0d11bf6775bfaa0dbece80fd9fc897f695bfdeecce6ee553",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychology",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0388",
+    "sha256": "31d5db9d9c57d396fab1156194704fedf4e3d051beefe4040dc4295e61ca69ce",
+    "article_type": "research-article",
+    "journal": "Brain Sciences",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0392",
+    "sha256": "868aedf546ddad847d850dc8663e62830c3cb9ca148ed400ff1617939af4c79e",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0396",
+    "sha256": "032d2d28781e3bf4da83080a37f949e3b46e8787f72ee188d7bcef5ac3f8b028",
+    "article_type": "brief-report",
+    "journal": "Innovation in Aging",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0397",
+    "sha256": "3cd5a1717ddd52c0b68c25c5ff0d28363d7822c3bf53b79cf28f1229f7481224",
+    "article_type": "research-article",
+    "journal": "PLoS ONE",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0400",
+    "sha256": "d746485a010c2e1bcc480330484e0d33f61eeaba9962adbfae0382635dd3b783",
+    "article_type": "research-article",
+    "journal": "JAMA Health Forum",
+    "sections": 12,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0405",
+    "sha256": "065ed2a8511f78de6edb33b72f66801acccb7161d9f26a73d3b1013b6ca09832",
+    "article_type": "research-article",
+    "journal": "Behavioral Sciences",
+    "sections": 8,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0410",
+    "sha256": "26495050344048a43e9fd2b87248a31687e3ef560387e867e1f0f1676a0457b6",
+    "article_type": "research-article",
+    "journal": "PLOS ONE",
+    "sections": 27,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0417",
+    "sha256": "021d0f0a163db51f4b0349fa59607562457110d9bba39fb719ca0117cb3b145e",
+    "article_type": "research-article",
+    "journal": "PLOS ONE",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0423",
+    "sha256": "21674ca49de41f28cb7da9fc350a40a212387f498ec00f8978b3908361876d6a",
+    "article_type": "research-article",
+    "journal": "PLOS ONE",
+    "sections": 18,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0431",
+    "sha256": "c53671480967e627f156b7803396214a239258c8186bd841fda3103fd7f7bae3",
+    "article_type": "research-article",
+    "journal": "Quality & Quantity",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0435",
+    "sha256": "8ff70049cf45177ec233a1e995bf7b39c78231525390c3b748699c8afd7b2e38",
+    "article_type": "review-article",
+    "journal": "Campbell Systematic Reviews",
+    "sections": 61,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0444",
+    "sha256": "7c09f5fca2b9cd511905dfe0c0db073ee97dcfd54d82e5000db8004936ebd5e2",
+    "article_type": "research-article",
+    "journal": "Environmental Science and Pollution Research International",
+    "sections": 32,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0446",
+    "sha256": "06b47d2fd3c91b6f70b779e10ca7b58fa49b7b55e2904ebfb43e316a3cc98721",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychology",
+    "sections": 26,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0450",
+    "sha256": "38d61d197749fa3947bf599cd1870e9ec8677736ac32cd6bef440923042a8d39",
+    "article_type": "research-article",
+    "journal": "International Journal of Environmental Research and Public Health",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0451",
+    "sha256": "fe88b5757d7afc985fc277b61f985253c66f2dcf561f59dc04657a34306bac08",
+    "article_type": "research-article",
+    "journal": "Frontiers in Psychology",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0454",
+    "sha256": "337f67efe80cc1c15c7d0c232c2111afb8568ace9f76f95dc8ee21ddd93ed3fd",
+    "article_type": "research-article",
+    "journal": "Behavioral Sciences",
+    "sections": 10,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0460",
+    "sha256": "128ca4283f80f8a53e1ee074e7db02f304ce0ab32f8ad34009f940555a069b1c",
+    "article_type": "research-article",
+    "journal": "Frontiers in Public Health",
+    "sections": 22,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0463",
+    "sha256": "c9a709111c4b766fb5dbab08026367b9723c19a8e67208987c89541bd9c69fe8",
+    "article_type": "research-article",
+    "journal": "PLOS One",
+    "sections": 24,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0469",
+    "sha256": "2f856f8f57e9d1a966d62012b6a6f9ebdf4edbb553f4179af2388ff4f6652f15",
+    "article_type": "research-article",
+    "journal": "BMJ Open",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0473",
+    "sha256": "2690bca2fc047c45a0d19fc653cfc6c8af9e7669ed1b1a0070e96b07228c931f",
+    "article_type": "research-article",
+    "journal": "Electronic Markets",
+    "sections": 28,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0474",
+    "sha256": "16e5fc092f1d3374fb06b1032aa21cb712db4e535c65c1a6bc45e407035d0dbb",
+    "article_type": "research-article",
+    "journal": "International Journal of Environmental Research and Public Health",
+    "sections": 14,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0478",
+    "sha256": "210be27da398bd1a23de869f4fa497d7c3d96d651b1266b6a4eb3221b66e393b",
+    "article_type": "research-article",
+    "journal": "Preventing Chronic Disease",
+    "sections": 10,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0481",
+    "sha256": "dbd5e027bb761a6dcecb1c54621d6882ae11ca33ed66ee7ba48d4b8e0b3df11d",
+    "article_type": "brief-report",
+    "journal": "SSM - Population Health",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0483",
+    "sha256": "aeeccdb071c880c50fca0da06e5ec09a2097f6e5946c3ab9af767fea7b25f416",
+    "article_type": "research-article",
+    "journal": "JAMA Network Open",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0484",
+    "sha256": "d81136d48eb7619fb7163169ec75020ca7e1aea653284e635981ea167dfc6d65",
+    "article_type": "research-article",
+    "journal": "BMJ Open",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0499",
+    "sha256": "e5aea68e7f0020b8a05531fdcd9916d57011da07a2e08f0fe03198b75d51cd9b",
+    "article_type": "research-article",
+    "journal": "International Journal of Environmental Research and Public Health",
+    "sections": 15,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0500",
+    "sha256": "229756671a66ea5e9af033025f7807690019004a7f3b76b3774598136aa241b7",
+    "article_type": "research-article",
+    "journal": "BMC Public Health",
+    "sections": 13,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0507",
+    "sha256": "227a16b1d2ba8815bc8730976153650db93754cc7c90c0ac17f0f7435c70168c",
+    "article_type": "research-article",
+    "journal": "SSM - Population Health",
+    "sections": 19,
+    "status": "retrieved_unreviewed"
+  },
+  {
+    "id": "M0508",
+    "sha256": "d3370819583c703af19975273c2fea45de86542fc8c66a32f0c8d76f9e826ddb",
+    "article_type": "research-article",
+    "journal": "Journal of Medical Internet Research",
+    "sections": 16,
+    "status": "retrieved_unreviewed"
+  }
+]

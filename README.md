@@ -1,4 +1,18 @@
-# Maze Bank — Java Swing loan-management demo
+# Maze Bank — original coursework and Prepare preview
+
+Two editions in one repository:
+
+| Edition | Purpose | Experience it |
+|---|---|---|
+| **Prepare — new research preview** | Organise claims, household costs, documents and questions before a first German debt-counselling appointment. | [Open browser preview](https://ahmad-527.github.io/maze-bank-loan-system/) · [Run locally](flagship/README.md) |
+| **Original Java restoration** | Educational loan-application/customer-query simulation from undergraduate coursework. | [Download original Java demo](https://github.com/ahmad-527/maze-bank-loan-system/releases/tag/v1.0.0-preview) |
+
+Prepare has editable uncertainty/dispute and repeated-record handling, explained monthly conversions, encrypted local saves/backups and a reviewed HTML handover. **It is a working research preview using fictional data, not a validated flagship or banking/advice service.** The 100-paper product review is documented; twenty comparator desk profiles do not yet meet the full hands-on benchmark requirement, and human/adviser validation remains open. [Research and validation dossier](docs/prepare/README.md).
+
+The original Java source/resources and `coursework-source` archive remain preserved. The later Prepare research, design and implementation were produced with Codex assistance.
+
+## Original Java coursework restoration
+
 
 An undergraduate Object Oriented Programming project, restored as a runnable desktop portfolio demo. Customers register, sign in and submit fictional loan applications and questions. Administrators review saved submissions in a separate dashboard.
 
@@ -12,7 +26,7 @@ An undergraduate Object Oriented Programming project, restored as a runnable des
 2. Download and extract the application ZIP from [Releases](https://github.com/ahmad-527/maze-bank-loan-system/releases).
 3. On Windows, double-click `Run.cmd`. On macOS/Linux, run `sh Run.sh` in a desktop session. Alternatively: `java -jar maze-bank-demo-1.0.0-preview.jar`.
 
-Windows desktop execution was checked. macOS/Linux launch scripts are provided but have not been tested on those operating systems. A graphical desktop is required; there is no hosted web version.
+Windows desktop execution was checked. macOS/Linux launch scripts are provided but have not been tested on those operating systems. A graphical desktop is required for this Java edition; the separate Prepare browser preview is linked above.
 
 | Login screen | User ID | Password |
 |---|---|---|

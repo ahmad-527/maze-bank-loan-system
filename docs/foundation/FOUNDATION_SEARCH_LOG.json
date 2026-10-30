@@ -1,0 +1,56 @@
+[
+  {
+    "topic": "F_methods",
+    "query": "(TITLE:(\"PRISMA 2020\" OR \"PRISMA-S\" OR \"AMSTAR 2\" OR \"RoB 2\" OR \"ROBINS-I\" OR \"CONSORT 2025\" OR \"CONSORT-EHEALTH\" OR \"CHERRIES\" OR \"TIDieR\" OR \"GRADE guidelines\" OR \"SAGER guidelines\" OR \"sample size justification\" OR \"Why Most Published Research Findings Are False\" OR \"questionable research practices\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[1995-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT TITLE:protocol NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 258,
+    "retrieved": 60
+  },
+  {
+    "topic": "F_software",
+    "query": "(TITLE:(\"research software\" OR \"scientific computing\" OR \"software testing\" OR \"software quality\" OR \"computational reproducibility\" OR \"reproducible computational research\" OR \"FAIR principles\" OR \"FAIR Guiding Principles\" OR \"FAIR4RS\" OR \"software citation\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[1995-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT TITLE:protocol NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 140,
+    "retrieved": 60
+  },
+  {
+    "topic": "F_measurement",
+    "query": "(TITLE:(\"system usability scale\" OR \"mobile app rating scale\" OR \"MAUQ\" OR \"user experience questionnaire\" OR \"eHEALS\" OR \"technology acceptance model\" OR \"usability evaluation methods\" OR \"usability metrics\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[1995-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT TITLE:protocol NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 311,
+    "retrieved": 60
+  },
+  {
+    "topic": "F_design",
+    "query": "(TITLE:(\"user-centered design\" OR \"user-centred design\" OR \"human-centered design\" OR \"human-centred design\" OR \"participatory design\") AND TITLE_ABS:(\"digital\" OR \"software\" OR \"app\" OR \"technology\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[1995-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT TITLE:protocol NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 442,
+    "retrieved": 60
+  },
+  {
+    "topic": "F_accessibility",
+    "query": "(TITLE:(\"web accessibility\" OR \"mobile accessibility\" OR \"digital accessibility\" OR \"accessibility evaluation\" OR \"accessible design\" OR \"older adults\") AND TITLE_ABS:(\"web\" OR \"app\" OR \"interface\" OR \"smartphone\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[1995-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT TITLE:protocol NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 2044,
+    "retrieved": 60
+  },
+  {
+    "topic": "F_engagement",
+    "query": "(TITLE:(\"engagement\" OR \"attrition\" OR \"adherence\" OR \"gamification\" OR \"persuasive\") AND TITLE_ABS:(\"digital intervention\" OR \"mobile app\" OR \"ehealth\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[1995-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT TITLE:protocol NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 419,
+    "retrieved": 60
+  },
+  {
+    "topic": "F_privacy",
+    "query": "(TITLE:(\"privacy\" OR \"security\" OR \"dark patterns\") AND TITLE_ABS:(\"mobile apps\" OR \"health apps\" OR \"smartphone\" OR \"user interface\" OR \"application\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[1995-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT TITLE:protocol NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 623,
+    "retrieved": 60
+  },
+  {
+    "topic": "F_AI",
+    "query": "(TITLE:(\"automation bias\" OR \"human-AI\" OR \"explainable artificial intelligence\" OR \"CONSORT-AI\" OR \"SPIRIT-AI\" OR \"DECIDE-AI\" OR \"TRIPOD+AI\" OR \"PROBAST\" OR \"FUTURE-AI\" OR \"dataset shift\" OR \"external validation\" OR \"algorithmic bias\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[1995-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT TITLE:protocol NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 2954,
+    "retrieved": 60
+  },
+  {
+    "topic": "F_behavior",
+    "query": "(TITLE:(\"financial literacy\" OR \"debt repayment\" OR \"financial well-being\" OR \"digital financial\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[1995-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT TITLE:protocol NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 253,
+    "retrieved": 60
+  }
+]

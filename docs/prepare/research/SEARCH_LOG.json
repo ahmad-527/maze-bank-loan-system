@@ -1,0 +1,86 @@
+[
+  {
+    "tag": "debt_health",
+    "query": "(TITLE_ABS:(\"unsecured debt\" OR \"overindebtedness\" OR \"over-indebtedness\" OR \"problem debt\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 49,
+    "retrieved": 40
+  },
+  {
+    "tag": "counselling",
+    "query": "(TITLE_ABS:(\"debt counselling\" OR \"debt counseling\" OR \"credit counseling\" OR \"financial counseling\" OR \"financial counselling\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 70,
+    "retrieved": 40
+  },
+  {
+    "tag": "germany",
+    "query": "(TITLE_ABS:(\"financial stress\" OR \"financial strain\" OR \"indebtedness\" OR \"debt\") AND TITLE_ABS:(\"Germany\" OR \"German\" OR \"European\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 172,
+    "retrieved": 40
+  },
+  {
+    "tag": "systematic_debt",
+    "query": "(TITLE_ABS:(\"debt\" OR \"financial stress\" OR \"financial strain\") AND TITLE_ABS:(\"systematic review\" OR \"meta-analysis\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 77,
+    "retrieved": 40
+  },
+  {
+    "tag": "scarcity_cognition",
+    "query": "(TITLE_ABS:(\"financial scarcity\" OR \"financial stress\" OR \"financial worries\") AND TITLE_ABS:(\"cognitive\" OR \"attention\" OR \"executive\" OR \"decision\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 103,
+    "retrieved": 40
+  },
+  {
+    "tag": "financial_self_management",
+    "query": "(TITLE_ABS:(\"financial self-control\" OR \"financial self control\" OR \"financial capability\" OR \"financial management behavior\" OR \"financial management behaviour\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 96,
+    "retrieved": 40
+  },
+  {
+    "tag": "literacy_intervention",
+    "query": "(TITLE_ABS:(\"financial literacy\" OR \"financial education\") AND TITLE_ABS:(\"intervention\" OR \"experiment\" OR \"randomized\" OR \"randomised\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 85,
+    "retrieved": 40
+  },
+  {
+    "tag": "wellbeing_measurement",
+    "query": "(TITLE_ABS:(\"financial well-being\" OR \"financial wellbeing\") AND TITLE_ABS:(\"measurement\" OR \"scale\" OR \"validity\" OR \"assessment\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 108,
+    "retrieved": 40
+  },
+  {
+    "tag": "help_seeking",
+    "query": "(TITLE_ABS:(\"debt\" OR \"financial hardship\" OR \"financial difficulty\") AND TITLE_ABS:(\"help seeking\" OR \"help-seeking\" OR \"stigma\" OR \"shame\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 95,
+    "retrieved": 40
+  },
+  {
+    "tag": "debt_repayment",
+    "query": "(TITLE_ABS:(\"debt repayment\" OR \"debt relief\" OR \"debt forgiveness\" OR \"repayment behavior\" OR \"repayment behaviour\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 55,
+    "retrieved": 40
+  },
+  {
+    "tag": "numeracy",
+    "query": "(TITLE_ABS:(\"numeracy\" OR \"financial literacy\") AND TITLE_ABS:(\"financial decision\" OR \"financial decisions\" OR \"debt\" OR \"financial capability\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 90,
+    "retrieved": 40
+  },
+  {
+    "tag": "planning_budget",
+    "query": "(TITLE_ABS:(\"budgeting\" OR \"financial planning\" OR \"financial self-management\") AND TITLE_ABS:(\"household\" OR \"consumer\" OR \"financial wellbeing\" OR \"financial well-being\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 38,
+    "retrieved": 38
+  },
+  {
+    "tag": "financial_digital",
+    "query": "(TITLE_ABS:(\"personal finance app\" OR \"personal finance apps\" OR \"digital financial literacy\" OR \"mobile financial\" OR \"mobile banking\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 38,
+    "retrieved": 38
+  },
+  {
+    "tag": "material_hardship",
+    "query": "(TITLE_ABS:(\"financial hardship\" OR \"material hardship\" OR \"financial strain\") AND TITLE_ABS:(\"income volatility\" OR \"irregular income\" OR \"housing\" OR \"social support\")) AND OPEN_ACCESS:Y AND IN_EPMC:Y AND FIRST_PDATE:[2000-01-01 TO 2026-10-30] NOT PUB_TYPE:preprint NOT PUB_TYPE:editorial NOT PUB_TYPE:\"published erratum\" NOT PUB_TYPE:\"retracted publication\" sort_cited:y",
+    "hits": 279,
+    "retrieved": 40
+  }
+]

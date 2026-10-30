@@ -1,0 +1,196 @@
+{
+  "checked_date": "2026-10-30",
+  "basis_limit": "Policy-supported inference plus article statements where present; not an audit of confidential reviewer reports or a guarantee of historical compliance. Publisher policy does not establish scientific quality or product effectiveness.",
+  "policies": {
+    "JMIR": [
+      "https://support.jmir.org/hc/en-us/articles/360003192792-What-is-the-peer-review-process-Are-all-papers-in-JMIR-Publications-journals-peer-reviewed",
+      "Regular research, review, tutorial and viewpoint articles supported by publisher policy; non-reviewed exceptional types excluded. Individual reviewer reports not audited."
+    ],
+    "BMC": [
+      "https://gateways.biomedcentral.com/china-en/peer-review-policy/",
+      "Research articles and most other scholarly article types undergo review. Applied to ordinary research/review publications, not letters/editorials."
+    ],
+    "ELSEVIER": [
+      "https://www.elsevier.com/about/policies-and-standards/publishing-ethics",
+      "Publisher policy calls for external independent review of research articles; regular published research/review identity corroborated. Patterns reviews held out."
+    ],
+    "PLOS": [
+      "https://journals.plos.org/plosone/s/editorial-and-peer-review-process",
+      "Regular research publications in PLOS journals; PLOS Biology and Computational Biology editorial/review processes additionally checked. Ambiguous other types held out."
+    ],
+    "FRONTIERS": [
+      "https://www.frontiersin.org/for-authors/where-to-publish/article-types",
+      "Publisher type table identifies review status of original research, reviews and methods; one included article also names a reviewer."
+    ],
+    "MDPI": [
+      "https://www.mdpi.com/editorial_process",
+      "Publisher process describes external review for research; included records are regular research or reviews, not editorials."
+    ],
+    "DLI": [
+      "https://journals.sagepub.com/author-instructions/dli",
+      "Journal describes independent review of accepted research; editorial/letter exceptions do not apply."
+    ],
+    "JAMA": [
+      "https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors",
+      "Journal describes reviewed research and JAMA editorial standards."
+    ],
+    "SPRINGER": [
+      "https://link.springer.com/brands/springer/journal-policies",
+      "All research articles and most other article types undergo peer review. Regular original research used here; journal-specific submission guidelines additionally inspected. Do not infer the exact historical review model."
+    ],
+    "BMJ": [
+      "https://bmjopen.bmj.com/pages/authors",
+      "BMJ Open external open review; included BMJ Open and JECH papers also carry article-specific external review statements."
+    ],
+    "BJP": [
+      "https://www.cambridge.org/core/journals/bjpsych-open",
+      "Journal describes peer-reviewed original research/reviews. Regular published articles, not editorials."
+    ],
+    "PM": [
+      "https://www.cambridge.org/core/journals/psychological-medicine/information/author-instructions/preparing-your-materials",
+      "Regular original/review research uses official peer-review submission systems; historical Cambridge contributor instructions also describe referee review."
+    ],
+    "CAMPBELL": [
+      "https://journals.sagepub.com/author-instructions/cam",
+      "Peer-reviewed systematic reviews, evidence maps and methods; three-stage review. Older Wiley publication identities retained; current Sage policy is not proof of every historical review report."
+    ],
+    "GHP": [
+      "https://journals.sagepub.com/page/ped/call-for-reviewers",
+      "Journal describes double-anonymized review. Applied to regular research/review, not unreviewed correspondence."
+    ],
+    "SJP": [
+      "https://journals.sagepub.com/home/SJP",
+      "Publisher describes peer-reviewed public-health journal; regular published research identity checked."
+    ],
+    "ISP": [
+      "https://journals.sagepub.com/home/isp",
+      "Publisher describes peer-reviewed journal. Included original research has corroborated DOI identity."
+    ],
+    "JMR": [
+      "https://journals.sagepub.com/author-instructions/mrj",
+      "At least two independent reviews required before acceptance/revision; double-anonymized review."
+    ],
+    "BJSP": [
+      "https://bpspsychub.onlinelibrary.wiley.com/hub/journal/20448309/homepage/forauthors.html",
+      "Journal describes double-anonymous review; applied to regular research."
+    ],
+    "EJPH": [
+      "https://academic.oup.com/eurpub/pages/instructions_for_authors",
+      "Original articles and short reports receive two or more external referees."
+    ],
+    "AGING": [
+      "https://academic.oup.com/innovateage/pages/author_guidelines",
+      "Regular research/brief reports receive peer review. Current double-anonymized model began February 2026; not assigned retroactively to the 2022 paper."
+    ],
+    "CDC": [
+      "https://www.cdc.gov/pcd/for_authors/types_of_articles.htm",
+      "Original Research explicitly peer reviewed; editorial policy describes single-anonymous external reviewers."
+    ],
+    "PNAS": [
+      "https://doi.org/10.1073/pnas",
+      "Primary journal description identifies PNAS as peer reviewed; included record is original research with corroborated DOI/full text."
+    ]
+  },
+  "article_policy_assignment": {
+    "M0004": "ELSEVIER",
+    "M0005": "BMC",
+    "M0012": "FRONTIERS",
+    "M0015": "BMC",
+    "M0016": "PLOS",
+    "M0018": "BMJ",
+    "M0020": "PLOS",
+    "M0021": "EJPH",
+    "M0022": "ISP",
+    "M0024": "FRONTIERS",
+    "M0025": "PLOS",
+    "M0028": "MDPI",
+    "M0031": "SPRINGER",
+    "M0032": "SPRINGER",
+    "M0034": "BJP",
+    "M0037": "ELSEVIER",
+    "M0039": "BMC",
+    "M0041": "SPRINGER",
+    "M0042": "BMC",
+    "M0048": "SPRINGER",
+    "M0059": "ELSEVIER",
+    "M0060": "CAMPBELL",
+    "M0062": "MDPI",
+    "M0067": "CAMPBELL",
+    "M0068": "SJP",
+    "M0075": "BJP",
+    "M0084": "ELSEVIER",
+    "M0097": "FRONTIERS",
+    "M0099": "BMC",
+    "M0111": "PLOS",
+    "M0117": "PLOS",
+    "M0124": "PM",
+    "M0129": "BMJ",
+    "M0139": "BMC",
+    "M0172": "BMC",
+    "M0188": "SPRINGER",
+    "M0189": "JMIR",
+    "M0191": "FRONTIERS",
+    "M0200": "BMC",
+    "M0204": "SPRINGER",
+    "M0205": "SPRINGER",
+    "M0217": "SPRINGER",
+    "M0218": "PLOS",
+    "M0219": "SPRINGER",
+    "M0221": "FRONTIERS",
+    "M0222": "DLI",
+    "M0224": "MDPI",
+    "M0227": "ELSEVIER",
+    "M0228": "SPRINGER",
+    "M0229": "SPRINGER",
+    "M0236": "CDC",
+    "M0241": "BMJ",
+    "M0242": "PLOS",
+    "M0251": "GHP",
+    "M0255": "JAMA",
+    "M0267": "MDPI",
+    "M0288": "SPRINGER",
+    "M0298": "FRONTIERS",
+    "M0300": "FRONTIERS",
+    "M0304": "BMC",
+    "M0319": "SPRINGER",
+    "M0326": "BMC",
+    "M0333": "PLOS",
+    "M0334": "ISP",
+    "M0336": "BJSP",
+    "M0340": "MDPI",
+    "M0346": "PNAS",
+    "M0356": "ELSEVIER",
+    "M0359": "SPRINGER",
+    "M0370": "JMR",
+    "M0383": "PLOS",
+    "M0385": "FRONTIERS",
+    "M0386": "SPRINGER",
+    "M0388": "MDPI",
+    "M0392": "PLOS",
+    "M0396": "AGING",
+    "M0397": "PLOS",
+    "M0400": "JAMA",
+    "M0405": "MDPI",
+    "M0410": "PLOS",
+    "M0417": "PLOS",
+    "M0423": "PLOS",
+    "M0431": "SPRINGER",
+    "M0435": "CAMPBELL",
+    "M0444": "SPRINGER",
+    "M0446": "FRONTIERS",
+    "M0450": "MDPI",
+    "M0454": "MDPI",
+    "M0463": "PLOS",
+    "M0469": "BMJ",
+    "M0473": "SPRINGER",
+    "M0474": "MDPI",
+    "M0478": "CDC",
+    "M0481": "ELSEVIER",
+    "M0483": "JAMA",
+    "M0484": "BMJ",
+    "M0499": "MDPI",
+    "M0500": "BMC",
+    "M0507": "ELSEVIER",
+    "M0508": "JMIR"
+  }
+}

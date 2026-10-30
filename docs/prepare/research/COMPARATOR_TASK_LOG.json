@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-30",
+  "required_qualified_apps": 20,
+  "qualification_complete_count": 0,
+  "partial_hands_on_workflow_count": 2,
+  "human_comparative_usability_sessions": 0,
+  "records": [
+    {
+      "id": "APP-01",
+      "name": "Norta web Schulden-Mapper",
+      "url": "https://norta.app/rechner/schulden-mapper",
+      "scope": "Public web calculator only; installed mobile app not tested",
+      "type": "Direct adjacent German debt-inventory workflow",
+      "adoption_popularity_evidence": "Not established; identified for direct workflow overlap, not qualified as a top app",
+      "effectiveness_evidence": "No independent outcome evidence verified; marketing statements not accepted as proof",
+      "task": "Reject optional cookies; select Inkasso; enter fictional creditor and balance 1200; inspect total and save disclosure",
+      "observed": [
+        "German interface with English switch and multiple debt categories",
+        "Single entry exposes creditor-name and remaining-balance fields",
+        "Synthetic 1200 input rendered as 1.200,00 EUR and one claim",
+        "Save FAQ explicitly states no device persistence, transmission or transfer to mobile app; users re-enter values manually",
+        "Mobile app is stated to provide plans/reminders; those flows were not inspected",
+        "Visual inspection at current browser viewport showed warm neutral background, serif headings and sans-serif body text; only a partial scrolled view was examined"
+      ],
+      "not_tested": [
+        "Reload persistence behavior",
+        "Unknown/disputed balances",
+        "Duplicate creditor/collector relationships",
+        "All error/accessibility cases",
+        "Mobile app",
+        "Independent data-flow audit",
+        "Adoption"
+      ],
+      "hypothesis_implication": "Persistence and a user-reviewed preparation handoff may distinguish a research prototype from this specific web mapper, but mobile-app overlap and user value remain unproven",
+      "interaction_note": "Exact Playwright name lookup failed for the FAQ; fresh accessibility state and exposed button index successfully opened it. No feature absence inferred from locator failure.",
+      "real_user_data_used": false,
+      "counts_as_completed_qualified_app_benchmark": false
+    },
+    {
+      "id": "APP-02",
+      "name": "Actual Budget public demo",
+      "url": "https://demo.actualbudget.org/",
+      "version": "App 26.10.0; Server N/A",
+      "scope": "Public synthetic demo in desktop IAB; no bank or server connected",
+      "task": "Try demo; dismiss tour; Schedules; add Synthetic annual insurance for 120.00, annual repeat; Apply; Add; reload",
+      "observed": [
+        "Schedule editor exposes amount approximation, account/payee, start date, repeat interval and upcoming dates",
+        "Annual setting displayed next occurrences 2026/2027/2028",
+        "Saved synthetic schedule visible in table and persisted after reload",
+        "Date calendar initially intercepted frequency click; Escape dismissed it and frequency then worked; not misreported as missing feature",
+        "Dense dark-blue sidebar/table layout at default viewport; rightmost columns outside current screenshot"
+      ],
+      "not_tested": [
+        "Unknown/disputed claim model",
+        "Claim/collector duplicate linkage",
+        "Backup/export and recovery failure",
+        "Mobile or keyboard-only completion",
+        "Independent encryption/network audit",
+        "Current adoption qualification"
+      ],
+      "real_user_data_used": false,
+      "counts_as_completed_qualified_app_benchmark": false
+    }
+  ]
+}
